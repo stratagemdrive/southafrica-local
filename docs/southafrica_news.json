@@ -1,7 +1,23 @@
 {
-  "Diplomacy": [],
+  "Diplomacy": [
+    {
+      "title": "Cape Town businessman accused of stealing R1.2m granted bail",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/cape-town-businessman-accused-of-stealing-r1-2m-granted-bail/",
+      "published_date": "2026-10-07T04:04:11+00:00",
+      "category": "Diplomacy"
+    }
+  ],
   "Military": [],
-  "Energy": [],
+  "Energy": [
+    {
+      "title": "Why SA households are left without power while the country generates excess electricity",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/why-sa-households-are-left-without-power-while-the-country-generates-excess-electricity/",
+      "published_date": "2026-10-07T09:19:14+00:00",
+      "category": "Energy"
+    }
+  ],
   "Economy": [
     {
       "title": "Bozell: Billions in investment at risk as SA-US rift deepens",
@@ -19,6 +35,118 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Compelling new documentary series shines light on equine welfare efforts in South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/compelling-new-documentary-series-shines-light-on-equine-welfare-efforts-in-south-africa/",
+      "published_date": "2026-10-07T16:44:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Paris school clashes, Cosatu protest and October 7 anniversary",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-paris-school-clashes-cosatu-protest-and-october-7-anniversary/",
+      "published_date": "2026-10-07T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteas clash will be ‘high quality cricket’, says Australia coach McDonald",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/proteas-clash-high-quality-cricket-australia-tests/",
+      "published_date": "2026-10-07T16:21:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eswatini denies releasing US deportees into South Africa illegally",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/eswatini-denies-releasing-us-deportees-into-south-africa-illegally/",
+      "published_date": "2026-10-07T14:46:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tyla nominated for a 2026 Soul Music Train Award",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/tyla-nominated-for-a-2026-soul-music-train-award/",
+      "published_date": "2026-10-07T14:13:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaguar’s rebirth complete as dramatic all-electric Type 01 shows itself",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/jaguar-type-01-officially-revealed/",
+      "published_date": "2026-10-07T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here’s how many people in South Africa rely on social grants in 2026",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/heres-how-many-people-in-south-africa-rely-on-social-grants-in-2026/",
+      "published_date": "2026-10-07T13:55:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Have South Africa’s hopes of hosting an F1 Grand Prix been overtaken?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/have-south-africas-hopes-of-hosting-an-f1-grand-prix-been-overtaken/",
+      "published_date": "2026-10-07T13:44:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST: Can South Africa trust its election results? IEC chief responds",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/podcast-can-south-africa-trust-its-election-results-iec-chief-responds/",
+      "published_date": "2026-10-07T09:26:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Honda Elevate gets sharper American-inspired restyling",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/facelift-honda-elevate-revealed/",
+      "published_date": "2026-10-07T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taxpayers paying the price as digital migration delays drag on",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/technology/taxpayers-paying-price-as-digital-migration-delays-drag-on/",
+      "published_date": "2026-10-07T07:29:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sibiya case tests whether South Africa holds power to account",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/sibiya-case-tests-whether-south-africa-holds-power-to-account/",
+      "published_date": "2026-10-07T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is why DON’T VOTE ANC, DA & EFF is trending in SA",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/this-is-why-dont-vote-anc-da-eff-is-trending-in-sa/",
+      "published_date": "2026-10-07T05:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can South Africa really afford the Olympics?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/can-south-africa-really-afford-the-olympics/",
+      "published_date": "2026-10-07T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK party blasts GNU as fuel price hike pushes petrol above R30/litre",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/mk-party-blasts-gnu-fuel-price-hike-pushes-petrol-above-r30-litre/",
+      "published_date": "2026-10-07T04:07:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wing and a prayer won’t save ANC ahead of polls",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/wing-and-a-prayer-wont-save-anc-ahead-of-polls/",
+      "published_date": "2026-10-07T04:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: Feroz Khan’s uncle killed | Mokonyane calls on ANC gods | Zuma-Sambudla, Ndhlela fight MK party expulsion",
       "source": "The Citizen",
@@ -41,122 +169,10 @@
       "category": "Local Events"
     },
     {
-      "title": "From ‘dirty votes’ to ancestral prayers: Nomvula Mokonyane under fire as ANC turns to spiritual intervention",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ancestral-prayers-nomvula-mokonyane-anc-spiritual-intervention/",
-      "published_date": "2026-10-06T12:50:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Why don’t the judges just run our lives’: Ngobese-Zuma fumes over asylum directive",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/why-dont-the-judges-just-run-our-lives-ngobese-zuma-asylum/",
-      "published_date": "2026-10-06T11:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Planning a trip to Durban this December? These are the beaches you may want to avoid",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/planning-a-trip-to-durban-this-december-these-are-the-beaches-you-may-want-to-avoid/",
-      "published_date": "2026-10-06T10:05:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More questions from AA in T1 and T2 payload battle with Jetour",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/more-questions-from-aa/",
-      "published_date": "2026-10-06T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transport Month: Joburg shifts into gear with e-buses, universal access",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/transport-month-joburg-shifts-into-gear-with-e-buses-universal-access/",
-      "published_date": "2026-10-06T09:38:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: Election on employment – ‘For young people, the space is almost closed’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/sol-plaatje-university-political-economic-challenges/",
-      "published_date": "2026-10-06T08:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cheetahs to play European games in Swansea",
+      "title": "South Africa hope to host first African Olympics",
       "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6j9xrl7g4j9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T08:16:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Almost like Springbok trials,’ says Stormers coach ahead of Sharks battle",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/almost-bok-trials-laker-ahead-stormers-v-sharks/",
-      "published_date": "2026-10-06T07:43:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa next? Deepal adds combustion assistance to S07",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/range-extending-deepal-s07-revealed/",
-      "published_date": "2026-10-06T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents left in dark once again as city battles to restore power",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/residents-left-in-dark-once-again-as-city-battles-to-restore-power/",
-      "published_date": "2026-10-06T04:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stormers v Sharks: ‘We are looking forward to playing in a full stadium,’ says Esterhuizen",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/sharks-esterhuizen-looking-forward-stormers/",
-      "published_date": "2026-10-06T04:35:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forget El Niño, South Africa’s harvest faces a new threat beyond drought",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/technology/forget-el-nino-south-africas-harvest-faces-new-threat-beyond-drought/",
-      "published_date": "2026-10-06T04:11:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: French school protests, Johannesburg power crackdown and a King Kong pumpkin display",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-2/",
-      "published_date": "2026-10-05T16:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ty Dolla $ign and KWN bring R&B festival to South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/ty-dolla-ign-and-kwn-bring-rb-festival-to-south-africa/",
-      "published_date": "2026-10-05T12:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chery Stockman detailed Down Under as preview of South Africa’s Grootman",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/chery-bakkie-detailed-further/",
-      "published_date": "2026-10-05T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twins’ murder may signal family dispute, warns expert",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/twins-murder-may-signal-family-dispute-warns-expert/",
-      "published_date": "2026-10-05T04:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zuma’s MK party set to be eThekwini’s biggest party as ANC struggles",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/zumas-mk-party-set-to-be-ethekwinis-biggest-party-anc-struggles/",
-      "published_date": "2026-10-05T03:01:09+00:00",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T12:56:20+00:00",
       "category": "Local Events"
     }
   ]
