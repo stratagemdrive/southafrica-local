@@ -11,6 +11,20 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Hawks freeze R7.7m in assets linked to convicted Eskom fraud syndicate",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/hawks-freeze-r7-7m-in-assets-linked-convicted-eskom-fraud-syndicate/",
+      "published_date": "2026-10-09T08:23:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Warm and sunny weekend ahead for Capetonians",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/weather/warm-and-sunny-weekend-ahead-for-capetonians/",
+      "published_date": "2026-10-09T06:39:10+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "R&B duo Changing Faces and Eric Benét added to Ndlala December showcase in South Africa",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/lifestyle/entertainment/rb-duo-changing-faces-and-eric-benet-added-to-ndlala-december-showcase-in-south-africa/",
@@ -26,6 +40,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Three-row Nissan Tekton edges closer to reality in new spy images",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/three-row-nissan-tekton-spied-again/",
+      "published_date": "2026-10-09T11:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BMW’s Neue Klasse era expands further with all-new iX4",
       "source": "The Citizen",
@@ -56,6 +77,90 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Ramaphosa assures nation the security cluster is on top of Durban unrest [VIDEOS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-security-cluster-durban-unrest/",
+      "published_date": "2026-10-09T16:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa v Australia first Test: Day one takeaways",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-v-australia-first-test-day-one-takeaways/",
+      "published_date": "2026-10-09T15:20:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court overturns Mbalula’s decision to remove Andile Lungisa from ANC election candidate list",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-andile-lungisa-anc-election-candidate-list/",
+      "published_date": "2026-10-09T14:28:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ID.4 no more as Volkswagen removes wraps from ‘new’ ID. Tiguan",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/volkswagen-id-tiguan-officially-revealed/",
+      "published_date": "2026-10-09T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharks coach Pietersen backs Edwill and Ethan to combat Stormers’ aerial threat",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/sharks-pietersen-edwill-ethan-combat-stormers-aerial/",
+      "published_date": "2026-10-09T12:22:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orlando Pirates v Mamelodi Sundowns – a clash of fine margins",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/pirates-sundowns-clash-fine-margins/",
+      "published_date": "2026-10-09T11:56:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T08:28:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A VIEW OF THE WEEK: Why can’t the ANC just bench drama queen Nomvula?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/a-view-of-the-week-nomvula-mokonyane/",
+      "published_date": "2026-10-09T07:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMW gives iX3 the M Performance boost with new M60",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/m-performance-bmw-ix3-m60-revealed/",
+      "published_date": "2026-10-09T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Lions prop Boan Venter excited about first Jukskei derby: ‘It’s personal’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/new-lions-prop-boan-venter-excited-about-first-jukskei-derby-its-personal/",
+      "published_date": "2026-10-09T04:33:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Educate against GBV’ as Ekurhuleni murders spark national outrage",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/educate-against-gbv-as-ekurhuleni-murders-spark-national-outrage/",
+      "published_date": "2026-10-09T03:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bikers of Africa rev up against GBV in Pretoria",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/bikers-of-africa-rev-up-against-gbv-in-pretoria/",
+      "published_date": "2026-10-09T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: Cars burn in Soweto | No taxi fare hike… yet | ‘Apartheid is not coming back’",
       "source": "The Citizen",
@@ -110,90 +215,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/rugby/urc-team-news-sa-sides-packed-bok-players-derby-saturday/",
       "published_date": "2026-10-08T13:24:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Durban City appoint Eric Tinkler as new head coach",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/durban-city-appoint-eric-tinkler-as-new-head-coach/",
-      "published_date": "2026-10-08T13:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s which public pools in Johannesburg are open and why the others are closed",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/which-public-pools-johannesburg-open/",
-      "published_date": "2026-10-08T12:06:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We tasted Graham Beck’s first English sparkling wine at R1 200 a bottle",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/food-and-drink/tasting-graham-becks-first-english-sparkling-wine-r1200-a-bottle/",
-      "published_date": "2026-10-08T10:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteas are ready for a fight against Aussies, says Harmer",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/proteas-ready-fight-australia-simon-harmer/",
-      "published_date": "2026-10-08T06:56:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gauteng weekend weather: Thunderstorms forecast before sunny skies return",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/gauteng-weekend-weather-thunderstorms-forecast-before-sunny-skies-return/",
-      "published_date": "2026-10-08T06:42:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMA rejects claims of deportees entering SA through informal border crossings",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/bma-rejects-claims-of-deportees-entering-sa-through-informal-border-crossings/",
-      "published_date": "2026-10-08T06:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC’s internal squabbles dampen hopes",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/ancs-internal-squabbles-dampen-hopes/",
-      "published_date": "2026-10-08T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some Joburg licensing centres closed due to supply shortages as Morero promises union R10bn",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/some-joburg-licencing-centres-closed-due-to-supply-shortages-as-morero-promises-union-r10bn/",
-      "published_date": "2026-10-08T05:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US issues Durban safety alert after foreign nationals targeted in looting and violence",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/us-issues-durban-safety-alert-foreign-nationals-targeted-looting-and-violence/",
-      "published_date": "2026-10-08T05:15:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Untame(able) edition Mini Countryman gets the nod for South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/south-africa-bound-mini-countryman-untamed-revealed/",
-      "published_date": "2026-10-08T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Pappas: Apartheid is not coming back [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/chris-pappas-apartheid-is-not-coming-back-as-da-seeks-re-election-in-umngeni-video/",
-      "published_date": "2026-10-08T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing South African mechanic freed after Mozambique militant attack",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/missing-sa-mechanic-freed-after-mozambique-militant-attack/",
-      "published_date": "2026-10-07T18:54:17+00:00",
       "category": "Local Events"
     }
   ]
