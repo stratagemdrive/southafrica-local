@@ -78,10 +78,24 @@
   ],
   "Local Events": [
     {
+      "title": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T17:37:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Ramaphosa assures nation the security cluster is on top of Durban unrest [VIDEOS]",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/ramaphosa-security-cluster-durban-unrest/",
       "published_date": "2026-10-09T16:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T15:26:33+00:00",
       "category": "Local Events"
     },
     {
@@ -201,20 +215,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/travel/review-4-days-at-club-med-south-africa/",
       "published_date": "2026-10-08T14:41:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Women have lost faith in the justice system’: DA marches against murder and GBV",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/women-have-lost-faith-in-the-justice-system-da-marches-against-murder-and-gbv/",
-      "published_date": "2026-10-08T14:12:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "URC team news: SA sides packed with Bok players for derby Saturday",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/urc-team-news-sa-sides-packed-bok-players-derby-saturday/",
-      "published_date": "2026-10-08T13:24:09+00:00",
       "category": "Local Events"
     }
   ]
