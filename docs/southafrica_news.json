@@ -11,6 +11,13 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Tshwane wins Mooikloof Mega City electricity dispute as Eskom loses leave to appeal",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/tshwane-wins-mooikloof-mega-city-electricity-dispute-as-eskom-loses-leave-to-appeal/",
+      "published_date": "2026-10-10T13:30:41+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Hawks freeze R7.7m in assets linked to convicted Eskom fraud syndicate",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/hawks-freeze-r7-7m-in-assets-linked-convicted-eskom-fraud-syndicate/",
@@ -77,6 +84,20 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "South Africa v Australia first Test: Day two takeaways",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-first-test-day-two-takeaways/",
+      "published_date": "2026-10-10T14:49:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "19 suspects arrested in Durban amid protests against illegal immigration",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/19-suspects-arrested-durban-protests-against-illegal-immigration/",
+      "published_date": "2026-10-10T11:41:43+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
       "source": "BBC News Africa",
@@ -201,20 +222,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-durban-anti-immigration-protest-proteas-training-and-more/",
       "published_date": "2026-10-08T16:42:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former ‘Backstage’, ‘Generations’ star Dini Nondumo named CEO of insurance brokerage",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/backstage-generations-star-dini-nondumo-named-ceo/",
-      "published_date": "2026-10-08T15:22:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 days at Club Med SA’s R2bn Dolphin Coast resort: What the brochure won’t tell you",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/travel/review-4-days-at-club-med-south-africa/",
-      "published_date": "2026-10-08T14:41:55+00:00",
       "category": "Local Events"
     }
   ]
