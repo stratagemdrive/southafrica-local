@@ -11,6 +11,13 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Here’s how much Eskom wants to increase electricity tariffs in 2027",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/heres-how-much-eskom-wants-to-increase-electricity-tariffs-in-2027/",
+      "published_date": "2026-10-13T13:18:30+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Eskom load reduction: These Gauteng areas face power cuts this week",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/eskom-load-reduction-these-gauteng-areas-face-power-cuts-this-week/",
@@ -55,6 +62,13 @@
   ],
   "Economy": [
     {
+      "title": "Mildly updated inside and out Alfa Romeo Giulia and Stelvio revealed",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/alfa-romeo-giulia-and-stelvio-updated-again/",
+      "published_date": "2026-10-13T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "R100m drug lab bust: Five suspects to appear in court",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/crime/r100m-drug-lab-bust-five-suspects-appear-in-court/",
@@ -81,16 +95,100 @@
       "url": "https://www.citizen.co.za/news/south-africa/crime/multi-million-rand-drug-lab-busted-krugersdorp-as-five-arrested/",
       "published_date": "2026-10-08T05:43:58+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bozell: Billions in investment at risk as SA-US rift deepens",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/bozell-billions-in-investment-at-risk-as-sa-us-rift-deepens/",
-      "published_date": "2026-10-06T07:30:40+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "‘The president complained’: EFF challenges reversal of Phala Phala evidence leader nomination",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/eff-phala-phala-evidence-leader-nomination/",
+      "published_date": "2026-10-13T16:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Pakistan train derailment, climate protest in Cape Town and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-pakistan-train-derailment-climate-protest-in-cape-town-and-more/",
+      "published_date": "2026-10-13T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recipe of the day: Lemongrass and ginger beer",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/food-and-drink/recipes/recipe-of-the-day-lemongrass-and-ginger-beer/",
+      "published_date": "2026-10-13T14:25:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Vote for both’: Cosatu stuck between ANC and SACP as two parties battle",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/vote-for-both-cosatu-stuck-between-anc-and-sacp-as-two-parties-battle/",
+      "published_date": "2026-10-13T14:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nissan Frontier Pro approved with right-hand drive as Navara Pro",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/nissan-frontier-pro-will-become-navara-pro/",
+      "published_date": "2026-10-13T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rusty or something more? South Africa's concern after Australia loss",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T13:28:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa v Australia first Test: Day five takeaways",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-first-test-day-five-takeaways/",
+      "published_date": "2026-10-13T11:44:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Botterill and Köhne in TGRSA one-two at Vryheid 400",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/botterill-and-kohne-in-tgrsa-one-two-at-vryheid-400/",
+      "published_date": "2026-10-13T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rwanda wins race for F1 as Africa returns to Grand Prix calendar after 37 years [VIDEO]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/rwanda-wins-race-f1-africa-returns-grand-prix-calendar/",
+      "published_date": "2026-10-13T10:51:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ticket sales open for inaugural Kyalami 24 Hours",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/kyalami-24-hours-ticket-prices/",
+      "published_date": "2026-10-13T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections 2026: What the ANC, DA, EFF and MK party say on land",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/elections-2026-what-the-anc-da-eff-and-mk-party-say-on-land/",
+      "published_date": "2026-10-13T06:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Violence undermines South Africa’s immigration debate",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/violence-undermines-south-africas-immigration-debate/",
+      "published_date": "2026-10-13T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mantashe irks Cosatu congress as delegates decry ANC’s ‘Big Brother’ attitude",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/mantashe-irks-cosatu-congress-as-delegates-decry-ancs-big-brother-attitude/",
+      "published_date": "2026-10-13T04:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "ANC axes three Ekurhuleni councillors in pre-election crackdown, orders another to step aside",
       "source": "The Citizen",
@@ -138,97 +236,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/business/takealot-mr-d-drivers-in-soweto-threaten-strike-over-r50-per-delivery-demand/",
       "published_date": "2026-10-12T14:26:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dricus du Plessis and Vasti Spiller say ‘I do’ in spectacular Cape Winelands wedding",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/dricus-du-plessis-vasti-spiller-spectacular-cape-winelands-wedding/",
-      "published_date": "2026-10-12T14:20:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pearl Thusi and Lungile Radu to host new travel show on SABC1",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/pearl-thusi-and-lungile-radu-to-host-new-travel-show-on-sabc1/",
-      "published_date": "2026-10-12T14:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Named by South Africa’ Chery Grootman will be produced locally",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/chery-bakkie-will-be-made-in-south-africa/",
-      "published_date": "2026-10-12T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should failing to click a button exclude the ANC? ConCourt hears candidate deadline arguments",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/should-failing-to-click-a-button-exclude-the-anc-concourt-hears-candidate-deadline-arguments/",
-      "published_date": "2026-10-12T13:49:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Da Cruz confident despite Chiefs midfield injuries",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/da-cruz-confident-despite-chiefs-midfield-injuries/",
-      "published_date": "2026-10-12T13:13:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Film Nights Durban screening cancelled due to security concerns",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/saudi-film-nights-durban-screening-cancelled-due-to-security-concerns-after-joburg-run/",
-      "published_date": "2026-10-12T11:40:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I said yes’: Nonku Williams and Lungani Rammaledi are engaged",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/nonku-williams-and-lungani-rammaledi-are-engaged/",
-      "published_date": "2026-10-12T11:36:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High Court set for showdown over Ramaphosa impeachment inquiry [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/high-court-set-showdown-ramaphosa-impeachment-inquiry/",
-      "published_date": "2026-10-12T11:12:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zuma Foundation blasts Ramaphosa as concerns over former leader’s health mount",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/zuma-foundation-fires-back-ramaphosa-health-concerns-mount/",
-      "published_date": "2026-10-12T09:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘They have forgotten we exist’: Limpopo entrepreneurs frustrated ahead of November polls",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/they-have-forgotten-we-exist-limpopo-entrepreneurs-frustrated-ahead-of-nov-4-polls/",
-      "published_date": "2026-10-12T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa weighs fuel relief as Creecy rejects levy hike",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/ramaphosa-weighs-fuel-relief-creecy-rejects-levy-hike/",
-      "published_date": "2026-10-12T08:56:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The person who will kill the ANC is not born yet,’ says Mbalula",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/the-person-who-will-kill-the-anc-is-not-born-yet-says-mbalula/",
-      "published_date": "2026-10-12T08:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alfa Romeo hands specification tweaks to Junior and Tonale",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/alfa-romeo-updates-junior-and-tonale/",
-      "published_date": "2026-10-12T05:00:00+00:00",
       "category": "Local Events"
     }
   ]
