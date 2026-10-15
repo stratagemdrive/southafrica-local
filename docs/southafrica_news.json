@@ -3,6 +3,20 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Tariff hikes: Does Eskom ever read the room?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/tariff-hikes-does-eskom-ever-read-the-room/",
+      "published_date": "2026-10-15T05:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Eskom issues ‘shocking’ warning to political parties ahead of elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/eskom-warns-parties-election-posters-power-poles-could-cost-lives/",
+      "published_date": "2026-10-15T02:39:50+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Eskom powers up EV drive with new Durban charging hubs",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/eskom-powers-up-ev-drive-with-new-durban-charging-hubs/",
@@ -43,16 +57,16 @@
       "url": "https://www.citizen.co.za/news/south-africa/weather/warm-and-sunny-weekend-ahead-for-capetonians/",
       "published_date": "2026-10-09T06:39:10+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "R&B duo Changing Faces and Eric Benét added to Ndlala December showcase in South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/rb-duo-changing-faces-and-eric-benet-added-to-ndlala-december-showcase-in-south-africa/",
-      "published_date": "2026-10-08T11:58:54+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Changan Nevo brand and Deepal S07 REEV approved for South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/changan-reveals-new-models-for-south-africa/",
+      "published_date": "2026-10-15T14:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Elections on business and property: How the vote can shape Joburg and Cape Town",
       "source": "The Citizen",
@@ -80,23 +94,100 @@
       "url": "https://www.citizen.co.za/motoring/three-row-nissan-tekton-spied-again/",
       "published_date": "2026-10-09T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BMW’s Neue Klasse era expands further with all-new iX4",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/bmw-reveals-all-new-all-electric-ix4/",
-      "published_date": "2026-10-08T08:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Multi-million-rand drug lab busted in Krugersdorp as five arrested [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/multi-million-rand-drug-lab-busted-krugersdorp-as-five-arrested/",
-      "published_date": "2026-10-08T05:43:58+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ouaddou welcomes Carling Knockout draw against ‘tough’ Milford",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/ouaddou-welcomes-carling-knockout-draw-against-tough-milford/",
+      "published_date": "2026-10-15T13:01:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tyla, Lira and TxC: South African stars eye Grammy glory with 2027 submissions",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/tyla-lira-and-txc-south-african-stars-eye-grammy-glory-with-2027-submissions/",
+      "published_date": "2026-10-15T12:42:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will ConCourt judgment on ANC vs IEC open a can of worms before the elections?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/will-concourt-judgment-on-anc-vs-iec-open-a-can-of-worms-before-the-elections/",
+      "published_date": "2026-10-15T12:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emotional Mbalula questions DA’s place in GNU as he celebrates ConCourt ruling",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/emotional-mbalula-questions-das-gnu-participation-as-he-celebrates-concourt-ruling/",
+      "published_date": "2026-10-15T11:04:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Well-again Da Cruz expects tough test for Chiefs in Zambia",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/well-again-da-cruz-expects-tough-test-chiefs-zambia/",
+      "published_date": "2026-10-15T11:03:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BAIC makes public Arcfox T1’s South Africa launch date",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/arcfox-t1-south-africa-launch-date-confirmed/",
+      "published_date": "2026-10-15T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceta bursary delays put students’ studies at risk, MPs warn",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/education/ceta-bursary-delays-put-students-studies-at-risk-mps-warn/",
+      "published_date": "2026-10-15T10:26:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ConCourt rules in favour of ANC’s ‘final button’ argument against IEC",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/constitutional-court-rules-in-favour-ancs-final-button-argument/",
+      "published_date": "2026-10-15T08:12:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Free schooling, jailing parents, and testing teachers: What SA’s biggest parties are saying about education",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/education/free-schooling-jailing-parents-and-testing-teachers-what-sas-biggest-parties-are-saying-about-education/",
+      "published_date": "2026-10-15T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IEC faces high cost of reprinting 66% of 79 million ballots if ConCourt rules in ANC’s favour",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/iec-faces-high-cost-of-reprinting-66-of-79-million-ballots/",
+      "published_date": "2026-10-15T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Johannesburg swimming pools confirmed for reopening: Here’s which ones",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/more-johannesburg-swimming-pools-reopening-which/",
+      "published_date": "2026-10-15T05:19:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aggressively updated Toyota Glanza revealed as preview of facelift Starlet",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/toyota-debuts-facelift-starlet-in-india/",
+      "published_date": "2026-10-15T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sewage spills plague Pretoria residents as complaints go unanswered",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/sewage-spills-plague-pretoria-residents-as-complaints-go-unanswered/",
+      "published_date": "2026-10-15T03:20:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "PSL ‘Big Three’ discover Carling Knockout last 16 opponents",
       "source": "The Citizen",
@@ -144,97 +235,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/courts/zimbabwean-truck-driver-convicted-r10-4m-illicit-cigarette-haul/",
       "published_date": "2026-10-14T10:27:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolt comparisons a 'privilege' - Dambile",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cv4g5gkw7kr4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T09:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC distances itself from proposed regulation of churches by CRL commission",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/anc-distances-itself-from-proposed-regulation-of-churches-by-crl-commission/",
-      "published_date": "2026-10-14T08:21:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Time South Africa took the Champions Cup seriously",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/opinion-time-south-africa-took-the-champions-cup-seriously/",
-      "published_date": "2026-10-14T06:42:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC or SACP? Cosatu leadership battle reflects alliance tensions",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/anc-or-sacp-cosatu-leadership-battle-reflects-alliance-tensions/",
-      "published_date": "2026-10-14T05:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former clients allege Cape Town attorney withheld RAF payouts",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/former-clients-allege-cape-town-attorney-withheld-raf-payouts/",
-      "published_date": "2026-10-14T04:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five kayakers, including German tourists, rescued after dense fog ordeal off Cape Town coast",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/five-kayakers-german-tourists-rescued-dense-fog-ordeal-cape-town-coast/",
-      "published_date": "2026-10-14T04:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search continues for missing Pretoria mother Serah-Lee Venter",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/search-continues-for-missing-pretoria-mother-serah-lee-venter/",
-      "published_date": "2026-10-14T04:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pretoria biker shooting accused appears in court",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/courts/pretoria-biker-shooting-accused-appears-in-court/",
-      "published_date": "2026-10-14T04:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Separated but not divorced? Your ex could claim your wealth",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/separated-but-not-divorced-your-ex-could-claim-your-wealth/",
-      "published_date": "2026-10-14T04:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here are South Africa’s top 10 best-rated beaches",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/travel/here-are-south-africas-top-10-best-rated-beaches/",
-      "published_date": "2026-10-14T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SA Word of Year contenders range from light-hearted to stark",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/sa-word-of-year-contenders-range-from-light-hearted-to-stark/",
-      "published_date": "2026-10-14T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tshwane reduces water tanker budget by 79%",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/tshwane-reduces-water-tanker-budget-by-79/",
-      "published_date": "2026-10-14T03:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake Justice Tembeka Ngcukaitobi WhatsApp scam sparks fresh alarm in judiciary",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/fake-justice-tembeka-ngcukaitobi-whatsapp-scam-sparks-fresh-alarm-judiciary/",
-      "published_date": "2026-10-14T02:33:08+00:00",
       "category": "Local Events"
     }
   ]
