@@ -43,23 +43,16 @@
       "url": "https://www.citizen.co.za/news/tshwane-wins-mooikloof-mega-city-electricity-dispute-as-eskom-loses-leave-to-appeal/",
       "published_date": "2026-10-10T13:30:41+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Hawks freeze R7.7m in assets linked to convicted Eskom fraud syndicate",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/hawks-freeze-r7-7m-in-assets-linked-convicted-eskom-fraud-syndicate/",
-      "published_date": "2026-10-09T08:23:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Warm and sunny weekend ahead for Capetonians",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/warm-and-sunny-weekend-ahead-for-capetonians/",
-      "published_date": "2026-10-09T06:39:10+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Pretoria raises alarm as Red Sea attacks threaten Saudi Arabia, holy sites, and global trade",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/pretoria-raises-alarm-red-sea-attacks-threaten-saudi-arabia-holy-sites-global-trade/",
+      "published_date": "2026-10-16T02:02:16+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Changan Nevo brand and Deepal S07 REEV approved for South Africa",
       "source": "The Citizen",
@@ -87,154 +80,147 @@
       "url": "https://www.citizen.co.za/news/south-africa/crime/r100m-drug-lab-bust-five-suspects-appear-in-court/",
       "published_date": "2026-10-12T04:11:23+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Three-row Nissan Tekton edges closer to reality in new spy images",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/three-row-nissan-tekton-spied-again/",
-      "published_date": "2026-10-09T11:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T14:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "City scratches its head over 160 sick in Tshwane",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/city-scratches-its-head-over-160-sick-in-tshwane/",
+      "published_date": "2026-10-16T13:16:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: Poop goes punk over Ekurhuleni sewage crisis",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/east-rand-poop-goes-punk/",
+      "published_date": "2026-10-16T11:52:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ConCourt ruling has given Mbalula another shot at the ANC 2027 leadership race",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/concourt-ruling-has-given-mbalula-another-shot-at-the-anc-2027-leadership-race-says-expert/",
+      "published_date": "2026-10-16T11:40:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SAHRC turns spotlight on supermarkets over food prices and hunger",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/sahrc-turns-spotlight-on-supermarkets-over-food-prices-and-hunger/",
+      "published_date": "2026-10-16T11:35:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Right of reply: CRL Rights Commission welcomes ANC’s clarification on religious freedom and self-regulation",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/right-of-reply-crl-rights-commission-welcomes-ancs-clarification-on-religious-freedom-and-self-regulation/",
+      "published_date": "2026-10-16T10:52:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miss SA 2026: Kuhle Adams and Kat Sinivasan announced as red carpet hosts",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/miss-sa-2026-kuhle-adams-and-kat-sinivasan-announced-as-red-carpet-hosts/",
+      "published_date": "2026-10-16T09:10:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANCYL calls on Ramaphosa to punish DA and get EFF to join GNU",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/ancyl-calls-on-ramaphosa-to-punish-da-and-get-eff-to-join-gnu/",
+      "published_date": "2026-10-16T08:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masemola back at the helm: Saps must stay focused on crime fight and reform, Cachalia says",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/masemola-back-helm-saps-must-stay-focused-crime-fight-reform-cachalia/",
+      "published_date": "2026-10-16T08:45:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memes vs municipalities: Is social media actually driving SA’s youth to the polls?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/memes-vs-municipalities-is-social-media-actually-driving-sas-youth-to-the-polls/",
+      "published_date": "2026-10-16T08:25:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red-hot new Audi SQ7 and SQ9 gets the nod for South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/audi-sq7-and-sq9-coming-to-south-africa/",
+      "published_date": "2026-10-16T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wet weekend ahead for Cape Town as temperatures dip",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/weather/wet-weekend-ahead-for-cape-town-as-temperatures-dip/",
+      "published_date": "2026-10-16T07:53:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa lifts suspension of Saps top cop Fannie Masemola",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-lifts-suspension-of-saps-top-cop-fannie-masemola/",
+      "published_date": "2026-10-16T06:17:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Right-hand drive Nissan Patrol enters production ahead of 2027 South Africa debut",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/right-hand-drive-nissan-patrol-production-underway/",
+      "published_date": "2026-10-16T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WhatsApp warning to SA parents after 9-year-olds exposed to porn in friend group call",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/whatsapp-warning-to-sa-parents-after-nine-year-olds-exposed-to-porn/",
+      "published_date": "2026-10-16T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ConCourt ruling forces IEC into late election reset",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/concourt-ruling-forces-iec-into-late-election-reset/",
+      "published_date": "2026-10-16T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Ex-ANC regional treasurer’ who skipped Madlanga commission arrested at OR Tambo Airport",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/ex-anc-regional-treasurer-arrested-or-tambo-allegedly-flee-sa/",
+      "published_date": "2026-10-16T04:49:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump picks the wrong fight with Pillay over ICC sanctions",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/trump-picks-the-wrong-fight-with-pillay-over-icc-sanctions/",
+      "published_date": "2026-10-16T04:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK party cries foul over ANC’s 181-candidate court victory, threatens legal action",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mk-party-cries-foul-ancs-candidate-court-victory-threatens-legal-action/",
+      "published_date": "2026-10-16T02:29:07+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: ANC wins ConCourt battle against IEC | NPA, police deny March and March warrants | Roaming lion found",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/in-case-you-missed-it-15-october-2026/",
       "published_date": "2026-10-15T18:35:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: Engen Xtreme Kouture brings fashion to the spinning arena",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/watch-engen-xtreme-kouture-brings-fashion-to-the-spinning-arena/",
-      "published_date": "2026-10-15T17:12:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ouaddou welcomes Carling Knockout draw against ‘tough’ Milford",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/ouaddou-welcomes-carling-knockout-draw-against-tough-milford/",
-      "published_date": "2026-10-15T13:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tyla, Lira and TxC: South African stars eye Grammy glory with 2027 submissions",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tyla-lira-and-txc-south-african-stars-eye-grammy-glory-with-2027-submissions/",
-      "published_date": "2026-10-15T12:42:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will ConCourt judgment on ANC vs IEC open a can of worms before the elections?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/will-concourt-judgment-on-anc-vs-iec-open-a-can-of-worms-before-the-elections/",
-      "published_date": "2026-10-15T12:11:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emotional Mbalula questions DA’s place in GNU as he celebrates ConCourt ruling",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/emotional-mbalula-questions-das-gnu-participation-as-he-celebrates-concourt-ruling/",
-      "published_date": "2026-10-15T11:04:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Well-again Da Cruz expects tough test for Chiefs in Zambia",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/well-again-da-cruz-expects-tough-test-chiefs-zambia/",
-      "published_date": "2026-10-15T11:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BAIC makes public Arcfox T1’s South Africa launch date",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/arcfox-t1-south-africa-launch-date-confirmed/",
-      "published_date": "2026-10-15T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ceta bursary delays put students’ studies at risk, MPs warn",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/education/ceta-bursary-delays-put-students-studies-at-risk-mps-warn/",
-      "published_date": "2026-10-15T10:26:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ConCourt rules in favour of ANC’s ‘final button’ argument against IEC",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/courts/constitutional-court-rules-in-favour-ancs-final-button-argument/",
-      "published_date": "2026-10-15T08:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free schooling, jailing parents, and testing teachers: What SA’s biggest parties are saying about education",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/education/free-schooling-jailing-parents-and-testing-teachers-what-sas-biggest-parties-are-saying-about-education/",
-      "published_date": "2026-10-15T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IEC faces high cost of reprinting 66% of 79 million ballots if ConCourt rules in ANC’s favour",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/iec-faces-high-cost-of-reprinting-66-of-79-million-ballots/",
-      "published_date": "2026-10-15T05:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More Johannesburg swimming pools confirmed for reopening: Here’s which ones",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/more-johannesburg-swimming-pools-reopening-which/",
-      "published_date": "2026-10-15T05:19:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aggressively updated Toyota Glanza revealed as preview of facelift Starlet",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/toyota-debuts-facelift-starlet-in-india/",
-      "published_date": "2026-10-15T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sewage spills plague Pretoria residents as complaints go unanswered",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/sewage-spills-plague-pretoria-residents-as-complaints-go-unanswered/",
-      "published_date": "2026-10-15T03:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSL ‘Big Three’ discover Carling Knockout last 16 opponents",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/psl-big-three-discover-carling-knockout-last-16-opponents/",
-      "published_date": "2026-10-14T19:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Pope Leo XIV’s health, giant pumpkin crowned champion and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-pope-leo-xivs-health-giant-pumpkin-crowned-champion-and-more/",
-      "published_date": "2026-10-14T18:53:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST: ANC defends North West record amid municipal service delivery challenges",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/podcast-anc-defends-north-west-record-amid-municipal-service-delivery-challenges/",
-      "published_date": "2026-10-14T15:20:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honda CR-V realigned with hybrid tech and at a reduced price",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/honda-cr-v-hybrid-south-africa-price/",
-      "published_date": "2026-10-14T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tyla offers R83k worth of music scholarships to South African students",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/tyla-offers-r83k-worth-of-music-scholarships-to-south-african-students/",
-      "published_date": "2026-10-14T12:30:24+00:00",
       "category": "Local Events"
     }
   ]
