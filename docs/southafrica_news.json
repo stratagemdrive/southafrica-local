@@ -84,10 +84,38 @@
   ],
   "Local Events": [
     {
+      "title": "Police bust suspected mandrax lab in Soweto and arrest four suspects (PICS)",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/police-bust-suspected-mandrax-lab-in-soweto-and-arrest-four-suspects-pics/",
+      "published_date": "2026-10-16T20:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durban protests: Man gets bail despite criminal history and ‘judges must f**k off’ remark",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/durban-protests-wandile-nsibande-bail/",
+      "published_date": "2026-10-16T19:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four suspects arrested in R1.4m Stilfontein illicit alcohol bust",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/four-suspects-arrested-in-r1-4m-stilfontein-illicit-alcohol-bust/",
+      "published_date": "2026-10-16T17:23:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-16T14:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South African rugby player Andrews dies at team hotel",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T14:33:04+00:00",
       "category": "Local Events"
     },
     {
@@ -193,34 +221,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/opinion/concourt-ruling-forces-iec-into-late-election-reset/",
       "published_date": "2026-10-16T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Ex-ANC regional treasurer’ who skipped Madlanga commission arrested at OR Tambo Airport",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/ex-anc-regional-treasurer-arrested-or-tambo-allegedly-flee-sa/",
-      "published_date": "2026-10-16T04:49:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump picks the wrong fight with Pillay over ICC sanctions",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/trump-picks-the-wrong-fight-with-pillay-over-icc-sanctions/",
-      "published_date": "2026-10-16T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MK party cries foul over ANC’s 181-candidate court victory, threatens legal action",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mk-party-cries-foul-ancs-candidate-court-victory-threatens-legal-action/",
-      "published_date": "2026-10-16T02:29:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: ANC wins ConCourt battle against IEC | NPA, police deny March and March warrants | Roaming lion found",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-15-october-2026/",
-      "published_date": "2026-10-15T18:35:22+00:00",
       "category": "Local Events"
     }
   ]
