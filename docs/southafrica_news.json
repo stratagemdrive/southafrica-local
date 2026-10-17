@@ -36,16 +36,16 @@
       "url": "https://www.citizen.co.za/news/south-africa/eskom-load-reduction-these-gauteng-areas-face-power-cuts-this-week/",
       "published_date": "2026-10-12T09:12:06+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Tshwane wins Mooikloof Mega City electricity dispute as Eskom loses leave to appeal",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/tshwane-wins-mooikloof-mega-city-electricity-dispute-as-eskom-loses-leave-to-appeal/",
-      "published_date": "2026-10-10T13:30:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Police seize R160m in counterfeit goods in Johannesburg CBD raid",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/police-seize-r160m-in-counterfeit-goods-in-johannesburg-cbd-raid/",
+      "published_date": "2026-10-17T06:16:25+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Pretoria raises alarm as Red Sea attacks threaten Saudi Arabia, holy sites, and global trade",
       "source": "The Citizen",
@@ -83,6 +83,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "‘Joburg needs own Madlanga moment,’ Zille says as she vows corruption crackdown [VIDEO]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/joburg-needs-own-madlanga-moment-zille-she-vows-corruption-crackdown/",
+      "published_date": "2026-10-17T11:16:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘South Africa can’t win everything’: Ramaphosa responds to Rwanda’s F1 Grand Prix success",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/south-africa-cant-win-everything-ramaphosa-responds-rwandas-f1-grand-prix-success/",
+      "published_date": "2026-10-17T10:44:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We are in this game to win’: Ramaphosa confident ANC can grow support in Western Cape",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-confident-anc-can-grow-support-western-cape/",
+      "published_date": "2026-10-17T09:58:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haval H6 PHEV ticks all the boxes and is a serious contender",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/haval-h6-phev-ticks-all-the-boxes-and-is-a-serious-contender/",
+      "published_date": "2026-10-17T06:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tributes pour in for rugby player Hyron Andrews as details emerge of untimely death",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/tributes-pour-in-rugby-player-hyron-andrews-untimely-death/",
+      "published_date": "2026-10-17T04:49:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mount Grace Hotel & Spa: A luxurious escape in the Magaliesberg",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/travel/mount-grace-hotel-spa-a-luxurious-escape-in-the-magaliesberg/",
+      "published_date": "2026-10-17T04:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Police bust suspected mandrax lab in Soweto and arrest four suspects (PICS)",
       "source": "The Citizen",
@@ -179,48 +221,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/memes-vs-municipalities-is-social-media-actually-driving-sas-youth-to-the-polls/",
       "published_date": "2026-10-16T08:25:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red-hot new Audi SQ7 and SQ9 gets the nod for South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/audi-sq7-and-sq9-coming-to-south-africa/",
-      "published_date": "2026-10-16T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wet weekend ahead for Cape Town as temperatures dip",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/wet-weekend-ahead-for-cape-town-as-temperatures-dip/",
-      "published_date": "2026-10-16T07:53:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa lifts suspension of Saps top cop Fannie Masemola",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/ramaphosa-lifts-suspension-of-saps-top-cop-fannie-masemola/",
-      "published_date": "2026-10-16T06:17:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Right-hand drive Nissan Patrol enters production ahead of 2027 South Africa debut",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/right-hand-drive-nissan-patrol-production-underway/",
-      "published_date": "2026-10-16T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WhatsApp warning to SA parents after 9-year-olds exposed to porn in friend group call",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/whatsapp-warning-to-sa-parents-after-nine-year-olds-exposed-to-porn/",
-      "published_date": "2026-10-16T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ConCourt ruling forces IEC into late election reset",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/concourt-ruling-forces-iec-into-late-election-reset/",
-      "published_date": "2026-10-16T05:00:00+00:00",
       "category": "Local Events"
     }
   ]
