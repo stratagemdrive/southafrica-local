@@ -1,5 +1,13 @@
 {
-  "Diplomacy": [],
+  "Diplomacy": [
+    {
+      "title": "Rumoured for South Africa iCaur V25 detailed as sales start in China",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/export-markets-icaur-v25-revealed/",
+      "published_date": "2026-10-20T05:00:00+00:00",
+      "category": "Diplomacy"
+    }
+  ],
   "Military": [
     {
       "title": "Global tensions fuel defence demand as SA arms manufacturer signs drone deal",
@@ -44,16 +52,30 @@
       "url": "https://www.citizen.co.za/news/eskom-powers-up-ev-drive-with-new-durban-charging-hubs/",
       "published_date": "2026-10-14T09:44:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Here’s how much Eskom wants to increase electricity tariffs in 2027",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/heres-how-much-eskom-wants-to-increase-electricity-tariffs-in-2027/",
-      "published_date": "2026-10-13T13:18:30+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "MTBPS: Treasury under pressure to stabilise government debt",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/mtbps-treasury-under-pressure-to-stabilise-government-debt/",
+      "published_date": "2026-10-20T10:51:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Export-market Freelander 8 ditches REEV for plug-in hybrid",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/freelander-8-revealed-as-a-plug-in-hybrid/",
+      "published_date": "2026-10-20T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Africa needs to invest in free press",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/south-africa-needs-to-invest-in-free-press/",
+      "published_date": "2026-10-20T03:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "South Africa remains a key market for the world’s biggest smartphone brands",
       "source": "The Citizen",
@@ -88,16 +110,93 @@
       "url": "https://www.citizen.co.za/news/south-africa/elections/elections-on-business-and-property-how-the-vote-can-shape-industry-sentiment/",
       "published_date": "2026-10-14T12:33:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mildly updated inside and out Alfa Romeo Giulia and Stelvio revealed",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/alfa-romeo-giulia-and-stelvio-updated-again/",
-      "published_date": "2026-10-13T05:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "AKA murder trial: Friend tells court Tibz said he could not breathe after Durban shooting",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/aka-murder-trial-friend-tells-court-tibz-said-he-could-not-breathe-after-durban-shooting/",
+      "published_date": "2026-10-20T14:26:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: Rolene Strauss shares tips that helped her win Miss World 2014",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/watch-rolene-strauss-shares-tips-that-helped-her-win-miss-world-2014/",
+      "published_date": "2026-10-20T12:11:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-20T11:09:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where people love to eat in South Africa: Reviewers’ Choice Awards 2026 announced",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/food-and-drink/reviewers-choice-awards-2026-are-announced/",
+      "published_date": "2026-10-20T10:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumelo Mmusi on Steve Madden South Africa, Bonang, Oscar Mbo and new fashion trends",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/tumelo-mmusi-on-steve-madden-south-africa-bonang-oscar-mbo-and-new-fashion-trends/",
+      "published_date": "2026-10-20T08:31:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: South Africa sets world rail record as Transnet runs massive 696-wagon train",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa-sets-world-rail-record-transnet-runs-massive-696-wagon-train/",
+      "published_date": "2026-10-20T08:17:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brandy, SWV, Dru Hill: DJ Skeelo, the man behind the biggest RnB concerts in South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/brandy-swv-dru-hill-dj-skeelo-the-man-behind-the-biggest-rnb-concerts-in-south-africa/",
+      "published_date": "2026-10-20T06:16:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Do something on fuel,’ civil rights organisations and unions say",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/do-something-on-fuel-civil-rights-organisations-and-unions-say/",
+      "published_date": "2026-10-20T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Committee hits back at Lex Libertas, ‘Parliament won’t be intimidated or silenced’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/committee-hits-back-lex-libertas-parliament-wont-be-intimidated-or-silenced/",
+      "published_date": "2026-10-20T04:30:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC ruling sparks debate over precedent and voter rights",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-ruling-sparks-debate-over-precedent-and-voter-rights/",
+      "published_date": "2026-10-20T04:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa to meet Silicon Valley AI giants as South Africa eyes tech future",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/ramaphosa-meet-silicon-valley-ai-giants-south-africa-eyes-tech-future/",
+      "published_date": "2026-10-20T02:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soweto storm rips roofs off Regina Mundi Church and school as emergency services on high alert",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/soweto-storm-rips-roofs-off-regina-mundi-church-school-emergency-services-high-alert/",
+      "published_date": "2026-10-20T01:37:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "‘Anything is possible’: Proteas still fighting in rain-hit Test against Australia",
       "source": "The Citizen",
@@ -152,90 +251,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/sabc-launches-digital-channel-for-election-coverage/",
       "published_date": "2026-10-19T09:29:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbalula back at work: From coalitions to factions, here are 3 things he needs to do now",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/the-body-did-what-the-body-does-mbalula-back-at-work-after-collapsing/",
-      "published_date": "2026-10-19T09:23:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DUT 2027 applications remain open for selected programmes in two faculties",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/dut-2027-applications-remain-open-for-selected-programmes-in-two-faculties/",
-      "published_date": "2026-10-19T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stormers to ‘stick to plan’ to rest Bok players in coming weeks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/stormers-juggle-boks-urc-games/",
-      "published_date": "2026-10-19T05:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government’s loss in public procurement case may herald law-making paralysis",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/governments-loss-in-public-procurement-case-may-herald-law-making-paralysis/",
-      "published_date": "2026-10-19T04:45:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nothing to celebrate, Mbaks’: ANC has nothing to crow about over court ruling",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/nothing-to-celebrate-mbaks-anc-has-nothing-to-crow-about-over-court-ruling/",
-      "published_date": "2026-10-19T04:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zuma’s political afterlife could be as disruptive as his life",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/zumas-political-afterlife-could-be-as-disruptive-as-his-life/",
-      "published_date": "2026-10-19T04:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa’s crime-fighting crisis laid bare by shocking police failures",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/south-africas-crime-fighting-crisis-laid-bare-by-shocking-police-failures/",
-      "published_date": "2026-10-19T03:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa needs to make politics boring again",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/south-africa-needs-to-make-politics-boring-again/",
-      "published_date": "2026-10-19T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Apartheid still exists’ in Western Cape, Ramaphosa says as ANC eyes election victory [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/apartheid-still-exists-western-cape-ramaphosa-anc-eyes-election-victory/",
-      "published_date": "2026-10-19T02:39:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC dragged to court over R40m debt as creditor targets IEC funding",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/anc-dragged-court-r40m-debt-creditor-targets-iec-funding/",
-      "published_date": "2026-10-19T02:03:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gauteng heatwave warning: Temperatures to hit 35°C",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/gauteng-heatwave-warning/",
-      "published_date": "2026-10-19T01:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "48 hours in pictures: Protests in France and Albania, Zulu regiments march and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-france-and-albania-protests-zulu-regiments-march-and-more/",
-      "published_date": "2026-10-18T20:43:53+00:00",
       "category": "Local Events"
     }
   ]
