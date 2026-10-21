@@ -19,6 +19,13 @@
   ],
   "Energy": [
     {
+      "title": "24 hours in pictures: Indonesia ferry fire, Regina Mundi church damaged by wind and deadly Egypt bus crash",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-indonesia-ferry-fire-regina-mundi-church-damaged-by-wind-and-deadly-egypt-bus-crash/",
+      "published_date": "2026-10-20T19:49:46+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Elections: What the ANC, DA, EFF and MK promise on electricity as load reduction lingers",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/elections-what-the-anc-da-eff-and-mk-promise-on-electricity-as-load-reduction-lingers/",
@@ -55,6 +62,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Warning: Rand Water calls on customers to reduce consumption as crisis looms",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/warning-rand-water-calls-on-customers-to-reduce-consumption-as-crisis-looms/",
+      "published_date": "2026-10-20T16:04:57+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MTBPS: Treasury under pressure to stabilise government debt",
       "source": "The Citizen",
@@ -113,6 +127,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "‘We’ve given ourselves a chance’: Proteas in the driving seat in second Test against Australia",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/proteas-driving-seat-second-test-australia/",
+      "published_date": "2026-10-20T18:02:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-20T15:58:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa v Australia second Test: Day three highlights",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-second-test-day-three-highlights/",
+      "published_date": "2026-10-20T15:53:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "AKA murder trial: Friend tells court Tibz said he could not breathe after Durban shooting",
       "source": "The Citizen",
@@ -230,27 +265,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/south-african-candice-swanepoels-14th-victorias-secret-show-and-10m-moment-pics/",
       "published_date": "2026-10-19T12:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiefs’ Da Cruz – ‘We need to change something’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-we-need-change-something/",
-      "published_date": "2026-10-19T09:55:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He lost six months’: Police union urges Ramaphosa to extend Masemola’s contract",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/he-lost-six-months-police-union-urges-ramaphosa-extend-masemolas-contract/",
-      "published_date": "2026-10-19T09:35:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SABC launches digital channel for election coverage",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/sabc-launches-digital-channel-for-election-coverage/",
-      "published_date": "2026-10-19T09:29:35+00:00",
       "category": "Local Events"
     }
   ]
