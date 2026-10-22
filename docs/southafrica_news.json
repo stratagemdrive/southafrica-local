@@ -45,23 +45,16 @@
       "url": "https://www.citizen.co.za/news/plan-to-free-ekurhuleni-from-eskom-and-save-municipality-r36bn-gets-the-green-light/",
       "published_date": "2026-10-19T08:53:12+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Tariff hikes: Does Eskom ever read the room?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/tariff-hikes-does-eskom-ever-read-the-room/",
-      "published_date": "2026-10-15T05:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eskom issues ‘shocking’ warning to political parties ahead of elections",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/eskom-warns-parties-election-posters-power-poles-could-cost-lives/",
-      "published_date": "2026-10-15T02:39:50+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "R186m GBV budget risks becoming ‘lip service’, warns Action Society",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/r186m-gbv-budget-risks-becoming-lip-service-warns-action-society/",
+      "published_date": "2026-10-22T06:16:49+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Government spending to increase to R3 trillion – Here’s where the money is going",
       "source": "The Citizen",
@@ -124,16 +117,93 @@
       "url": "https://www.citizen.co.za/news/south-africa/pretoria-raises-alarm-red-sea-attacks-threaten-saudi-arabia-holy-sites-global-trade/",
       "published_date": "2026-10-16T02:02:16+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Changan Nevo brand and Deepal S07 REEV approved for South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/changan-reveals-new-models-for-south-africa/",
-      "published_date": "2026-10-15T14:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Jo-Ann Strauss to host the 2026 Miss South Africa finale",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/jo-ann-strauss-to-host-the-2026-miss-south-africa-finale/",
+      "published_date": "2026-10-22T14:53:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reinvented new Audi Q5 was worth the wait",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/new-audi-q5-launch-drive-south-africa/",
+      "published_date": "2026-10-22T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blue lights to keep your lights on: When service delivery only happens under security escort",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/municipal-crews-seek-police-escorts/",
+      "published_date": "2026-10-22T11:36:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durban CBD murder: Police investigate killing of foreign national",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/durban-cbd-murder-police-investigate-killing-of-foreign-national/",
+      "published_date": "2026-10-22T10:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unemployment crisis: Ramaphosa tells employers to stop treating inexperience as inability",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-tells-employers-to-stop-treating-inexperience-as-inability/",
+      "published_date": "2026-10-22T10:24:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joburg art gallery makes European debut with a sale every two days",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/joburg-art-gallery-european-debut/",
+      "published_date": "2026-10-22T09:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC at war with itself: Mbalula refuses to tell Joburg who the party plans to put forward as mayor",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-at-war-with-itself-mbalula-refuses-to-tell-joburg-who-the-party-plans-to-put-forward-as-mayor/",
+      "published_date": "2026-10-22T08:32:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stormers’ junior stars unleashed as ‘Project 2029’ starts taking shape",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/stormers-junior-stars-unleashed/",
+      "published_date": "2026-10-22T07:56:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BAIC’s Arcfox T1 pounces on South Africa as pricing is revealed",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/arcfox-t1-south-africa-price/",
+      "published_date": "2026-10-22T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suliman Carrim’s court woes deepen",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/suliman-carrims-woes-deepen-added-as-accused-in-another-case/",
+      "published_date": "2026-10-22T04:34:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pretoria police battle poor conditions and lack of resources",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/pretoria-police-battle-poor-conditions-and-lack-of-resources/",
+      "published_date": "2026-10-22T03:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters want solutions, not stunts and township culture symbols",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/voters-want-solutions-not-stunts-and-township-culture-symbols/",
+      "published_date": "2026-10-22T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "‘It’s a nice feeling’: Proteas in full control against Australia ahead of final day of second Test",
       "source": "The Citizen",
@@ -163,6 +233,13 @@
       "category": "Local Events"
     },
     {
+      "title": "South Africa's Andrews died of tear in artery around heart - autopsy",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-21T14:39:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "New Omoda C4 to be first Chery Group model made in South Africa",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/new-omoda-c4-to-be-first/",
@@ -181,97 +258,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/education/maile-vows-to-tighten-checks-on-teachers-after-soweto-sexual-assault-allegations/",
       "published_date": "2026-10-21T11:29:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What the DA, ANC, EFF and MK party manifestos promise on healthcare in South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/what-the-da-anc-eff-and-mk-party-manifestos-promise-on-healthcare-in-south-africa/",
-      "published_date": "2026-10-21T11:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louis Oosthuizen quits LIV Golf, returns to DP World Tour",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/louis-oosthuizen-quits-liv-golf-to-return-to-dp-world-tour/",
-      "published_date": "2026-10-21T09:07:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharks: Lineouts will be key against Corniel’s Cardiff",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/sharks-lineouts-key-against-corniel-van-zyl-cardiff/",
-      "published_date": "2026-10-21T08:22:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA raises misconduct claims, but GDE says no formal complaints yet",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/education/da-raises-misconduct-claims-but-gde-says-no-formal-complaints-yet/",
-      "published_date": "2026-10-21T08:01:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ANC will raise your child for you: Ramaphosa speaks about his party’s successes",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/the-anc-will-raise-your-child-for-you-ramaphosa-speaks-about-his-partys-successes/",
-      "published_date": "2026-10-21T07:39:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor faces charges and criticism over water contamination failures that put lives at risk",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/mayor-faces-charges-criticism-water-contamination-failures/",
-      "published_date": "2026-10-21T06:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ConCourt win won’t save the ANC",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/concourt-win-wont-save-the-anc/",
-      "published_date": "2026-10-21T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa slams ‘white genocide’ claims as Afrikaner refugee debate escalates",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/ramaphosa-slams-white-genocide-claims-as-afrikaner-refugee-debate-escalates/",
-      "published_date": "2026-10-21T05:35:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Johannesburg Zoo gets to keep its elephants as High Court dismisses activist’s application",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/johannesburg-zoo-elephants-remain/",
-      "published_date": "2026-10-21T05:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zille warns Joburg voters: Split opposition vote could keep ANC in power [WATCH]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/zille-warns-joburg-voters-split-opposition-vote-could-keep-anc-in-power/",
-      "published_date": "2026-10-21T04:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Ate celebrates 30 years of Just with Gauteng tour",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/henry-ate-30-years-of-just-tour/",
-      "published_date": "2026-10-21T04:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FF+ calls for DA strategist’s head in ‘fight for votes’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/ff-calls-for-da-strategists-head-in-fight-for-votes/",
-      "published_date": "2026-10-21T04:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavuma is a good omen for SA",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/bavuma-is-a-good-omen-for-sa/",
-      "published_date": "2026-10-21T04:00:00+00:00",
       "category": "Local Events"
     }
   ]
