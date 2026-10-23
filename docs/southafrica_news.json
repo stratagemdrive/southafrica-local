@@ -49,6 +49,20 @@
   ],
   "Economy": [
     {
+      "title": "Chery gives first glimpse of rugged South Africa-bound Tiggo X7",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/chery-reveals-new-tiggo-x7/",
+      "published_date": "2026-10-23T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ANC carries ‘heightened responsibility’, says party as it publicly scolds Mantashe",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/anc-heightened-responsibility-mantashe/",
+      "published_date": "2026-10-23T04:50:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "R186m GBV budget risks becoming ‘lip service’, warns Action Society",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/r186m-gbv-budget-risks-becoming-lip-service-warns-action-society/",
@@ -110,16 +124,72 @@
       "url": "https://www.citizen.co.za/news/south-africa/crime/police-seize-r160m-in-counterfeit-goods-in-johannesburg-cbd-raid/",
       "published_date": "2026-10-17T06:16:25+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Pretoria raises alarm as Red Sea attacks threaten Saudi Arabia, holy sites, and global trade",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/pretoria-raises-alarm-red-sea-attacks-threaten-saudi-arabia-holy-sites-global-trade/",
-      "published_date": "2026-10-16T02:02:16+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Five held after foreign national beaten to death during Durban march",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/five-held-after-foreign-national-beaten-to-death-during-durban-march/",
+      "published_date": "2026-10-23T14:41:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA targets Ekurhuleni majority in make-or-break municipal election",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/da-targets-majority-in-ekurhuleni/",
+      "published_date": "2026-10-23T14:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA election campaign posters removed from Free State streets as police investigate theft case",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/da-election-campaign-posters-theft-free-state/",
+      "published_date": "2026-10-23T13:18:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteas on top against Aussies: Five things we’ve learned about Bavuma and his team",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/proteas-aussies-five-things-weve-learned-bavuma-team/",
+      "published_date": "2026-10-23T12:51:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ditsobotla on its way to financial recovery after 15 years under administration, says municipal manager",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/ditsobotla-on-its-way-to-financial-recovery-after-15-years-under-administration-says-municipal-manager/",
+      "published_date": "2026-10-23T11:13:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T10:36:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here’s how Cape Town dam are doing this week",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/cape-town-dam-levels-this-week/",
+      "published_date": "2026-10-23T09:57:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olivia Dean confirmed as Milk + Cookies 2027 headliner for Cape Town and Joburg",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/olivia-dean-milk-cookies-2027-headliner-info/",
+      "published_date": "2026-10-23T09:33:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cape Town weekend weather: Here’s what to expect",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/weather/cape-town-weekend-weather-sunshine-before-sunday-winds/",
+      "published_date": "2026-10-23T09:25:42+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "source": "BBC News Africa",
@@ -195,69 +265,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/arcfox-t1-south-africa-price/",
       "published_date": "2026-10-22T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suliman Carrim’s court woes deepen",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/suliman-carrims-woes-deepen-added-as-accused-in-another-case/",
-      "published_date": "2026-10-22T04:34:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pretoria police battle poor conditions and lack of resources",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/pretoria-police-battle-poor-conditions-and-lack-of-resources/",
-      "published_date": "2026-10-22T03:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voters want solutions, not stunts and township culture symbols",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/voters-want-solutions-not-stunts-and-township-culture-symbols/",
-      "published_date": "2026-10-22T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s a nice feeling’: Proteas in full control against Australia ahead of final day of second Test",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/proteas-full-control-australia-second-test/",
-      "published_date": "2026-10-21T18:07:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Gaza destruction, David Tlale’s fashion comeback, a giant pink duck and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-gaza-destruction-david-tlales-fashion-comeback-a-giant-pink-duck-and-more/",
-      "published_date": "2026-10-21T16:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa v Australia second Test: Day four highlights",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-second-test-day-four-highlights/",
-      "published_date": "2026-10-21T16:16:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I don’t know what I must apologise for’: Gwede Mantashe on ‘sex-for-jobs’ remarks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/i-dont-know-what-i-must-apologise-for-gwede-mantashe-on-sex-for-jobs-remarks/",
-      "published_date": "2026-10-21T15:47:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's Andrews died of tear in artery around heart - autopsy",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T14:39:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Omoda C4 to be first Chery Group model made in South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/new-omoda-c4-to-be-first/",
-      "published_date": "2026-10-21T14:00:00+00:00",
       "category": "Local Events"
     }
   ]
