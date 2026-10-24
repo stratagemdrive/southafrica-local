@@ -117,16 +117,23 @@
       "url": "https://www.citizen.co.za/lifestyle/technology/south-africa-remains-a-key-market-for-the-worlds-biggest-smartphone-brands/",
       "published_date": "2026-10-19T13:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Police seize R160m in counterfeit goods in Johannesburg CBD raid",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/police-seize-r160m-in-counterfeit-goods-in-johannesburg-cbd-raid/",
-      "published_date": "2026-10-17T06:16:25+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "OPINION: World Athletics needs to crack the whip to clean up the sport in SA",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/opinion-world-athletics-crack-whip-clean-up-sa/",
+      "published_date": "2026-10-24T10:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From rock to laughs: What to do in Joburg this December and beyond",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/from-rock-to-laughs-what-to-do-in-joburg-this-december-and-beyond/",
+      "published_date": "2026-10-24T09:47:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Chiefs’ Da Cruz on Confed Cup exit – ‘We dominated’",
       "source": "The Citizen",
@@ -251,20 +258,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/ramaphosa-tells-employers-to-stop-treating-inexperience-as-inability/",
       "published_date": "2026-10-22T10:24:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joburg art gallery makes European debut with a sale every two days",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/joburg-art-gallery-european-debut/",
-      "published_date": "2026-10-22T09:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC at war with itself: Mbalula refuses to tell Joburg who the party plans to put forward as mayor",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-at-war-with-itself-mbalula-refuses-to-tell-joburg-who-the-party-plans-to-put-forward-as-mayor/",
-      "published_date": "2026-10-22T08:32:51+00:00",
       "category": "Local Events"
     }
   ]
