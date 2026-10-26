@@ -15,35 +15,21 @@
       "url": "https://www.citizen.co.za/lifestyle/entertainment/kite-festival-highlights-mental-health/",
       "published_date": "2026-10-21T04:00:34+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Global tensions fuel defence demand as SA arms manufacturer signs drone deal",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/global-tensions-fuel-defence-deman-arms-manufacturers-sign-uav-deal/",
-      "published_date": "2026-10-19T04:15:06+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Eskom hits 525 days without load shedding as power recovery reaches six-year high",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/eskom-hits-525-days-without-load-shedding-power-recovery-reaches-six-year-high/",
+      "published_date": "2026-10-26T04:25:17+00:00",
+      "category": "Energy"
+    },
     {
       "title": "24 hours in pictures: Indonesia ferry fire, Regina Mundi church damaged by wind and deadly Egypt bus crash",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-indonesia-ferry-fire-regina-mundi-church-damaged-by-wind-and-deadly-egypt-bus-crash/",
       "published_date": "2026-10-20T19:49:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Elections: What the ANC, DA, EFF and MK promise on electricity as load reduction lingers",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/elections-what-the-anc-da-eff-and-mk-promise-on-electricity-as-load-reduction-lingers/",
-      "published_date": "2026-10-19T13:04:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Plan to free Ekurhuleni from Eskom and save municipality R36bn gets the green light",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/plan-to-free-ekurhuleni-from-eskom-and-save-municipality-r36bn-gets-the-green-light/",
-      "published_date": "2026-10-19T08:53:12+00:00",
       "category": "Energy"
     }
   ],
@@ -110,16 +96,93 @@
       "url": "https://www.citizen.co.za/news/opinion/south-africa-needs-to-invest-in-free-press/",
       "published_date": "2026-10-20T03:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "South Africa remains a key market for the world’s biggest smartphone brands",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/technology/south-africa-remains-a-key-market-for-the-worlds-biggest-smartphone-brands/",
-      "published_date": "2026-10-19T13:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "WATCH: Eikenhof mother turns recyclable waste into a lifeline for her family",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/eikenhof-mother-turns-recyclable-waste-into-a-lifeline-for-her-family/",
+      "published_date": "2026-10-26T11:12:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It is official: Mitsubishi Triton-based Honda bakkie coming in 2028",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/honda-based-mitsubishi-triton-bakkie-confirmed/",
+      "published_date": "2026-10-26T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa takes credit for Madlanga commission, says ANC did not betray SA",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-takes-credit-for-madlanga-comission-heres-what-he-wants-to-tackle-next/",
+      "published_date": "2026-10-26T09:29:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa points to fuel levy relief as cost-of-living crisis bites",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-points-fuel-levy-relief-cost-of-living-crisis-bites/",
+      "published_date": "2026-10-26T09:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula secures historic fourth term as Ramaphosa hails ‘victory for the Global South’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/lula-secures-historic-fourth-term-ramaphosa-hails-victory-global-south/",
+      "published_date": "2026-10-26T09:04:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father killed in scuffle for water as family vows to vote for ‘the ANC of Mandela’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/father-killed-in-scuffle-for-water-as-family-vows-to-vote-for-the-anc-of-mandela/",
+      "published_date": "2026-10-26T07:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC issues urgent warning over fake ‘free R300’ election scam",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-issues-urgent-warning-fake-free-r300-election-scam/",
+      "published_date": "2026-10-26T06:49:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbalula blasts DA for calling Western Cape residents ‘refugees’, warns ANC collapse would harm SA [VIDEO]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-blasts-da-calling-western-cape-residents-refugees-warns-anc-collapse-would-harm-sa/",
+      "published_date": "2026-10-26T05:14:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "End of the 3.0? Isuzu details new 2.2-litre bi-turbodiesel engine",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/isuzu-debuts-new-2-2-litre-bi-turbodiesel-engine/",
+      "published_date": "2026-10-26T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Be more like Bavuma, says Rickelton ahead of series decider in Cape Town",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/be-more-like-bavuma-says-rickelton-series-decider-cape-town/",
+      "published_date": "2026-10-26T04:18:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition claims ANC is using council jobs to ‘buy votes’ in Ekurhuleni",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-buy-votes-ekurhuleni-council-actionsa/",
+      "published_date": "2026-10-26T03:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Damning’ report reveals Tshwane mayor knew about water crisis, claims DA’s Brink",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/report-tshwane-mayor-moya-water-crisis/",
+      "published_date": "2026-10-26T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "48 hours in pictures: Cape Town Kite Festival, Daredevil Run and Russian attack on Ukraine",
       "source": "The Citizen",
@@ -174,90 +237,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/opinion-world-athletics-crack-whip-clean-up-sa/",
       "published_date": "2026-10-24T10:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From rock to laughs: What to do in Joburg this December and beyond",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/from-rock-to-laughs-what-to-do-in-joburg-this-december-and-beyond/",
-      "published_date": "2026-10-24T09:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiefs’ Da Cruz on Confed Cup exit – ‘We dominated’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-confed-cup-exit-dominated/",
-      "published_date": "2026-10-23T18:39:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stormers preparing for kicking barrage from ‘old school’ Scarlets",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/stormers-preparing-scarlets-kicking/",
-      "published_date": "2026-10-23T18:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five held after foreign national beaten to death during Durban march",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/five-held-after-foreign-national-beaten-to-death-during-durban-march/",
-      "published_date": "2026-10-23T14:41:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA targets Ekurhuleni majority in make-or-break municipal election",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-targets-majority-in-ekurhuleni/",
-      "published_date": "2026-10-23T14:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA election campaign posters removed from Free State streets as police investigate theft case",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-election-campaign-posters-theft-free-state/",
-      "published_date": "2026-10-23T13:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proteas on top against Aussies: Five things we’ve learned about Bavuma and his team",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/proteas-aussies-five-things-weve-learned-bavuma-team/",
-      "published_date": "2026-10-23T12:51:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ditsobotla on its way to financial recovery after 15 years under administration, says municipal manager",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/ditsobotla-on-its-way-to-financial-recovery-after-15-years-under-administration-says-municipal-manager/",
-      "published_date": "2026-10-23T11:13:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T10:36:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s how Cape Town dam are doing this week",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/cape-town-dam-levels-this-week/",
-      "published_date": "2026-10-23T09:57:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivia Dean confirmed as Milk + Cookies 2027 headliner for Cape Town and Joburg",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/olivia-dean-milk-cookies-2027-headliner-info/",
-      "published_date": "2026-10-23T09:33:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cape Town weekend weather: Here’s what to expect",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/cape-town-weekend-weather-sunshine-before-sunday-winds/",
-      "published_date": "2026-10-23T09:25:42+00:00",
       "category": "Local Events"
     }
   ]
