@@ -1,14 +1,13 @@
 {
-  "Diplomacy": [
-    {
-      "title": "Rumoured for South Africa iCaur V25 detailed as sales start in China",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/export-markets-icaur-v25-revealed/",
-      "published_date": "2026-10-20T05:00:00+00:00",
-      "category": "Diplomacy"
-    }
-  ],
+  "Diplomacy": [],
   "Military": [
+    {
+      "title": "Ramaphosa receives Iran Navy probe report after ignored presidential order",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/just-in-ramaphosa-receives-iran-navy-probe-report-after-ignored-presidential-order/",
+      "published_date": "2026-10-27T06:41:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "Mzansi lives in fear: Cape Town Kite Festival to highlight mental health",
       "source": "The Citizen",
@@ -18,6 +17,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Newly launched Arcfox keen on entering bakkie segment",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/baic-owned-arcfox-keen-on-a-bakkie/",
+      "published_date": "2026-10-27T11:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Finances, corruption, repairs: Helen Zille on her plans to turn Joburg around",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/helen-zille-on-her-plans-to-turn-joburg-around/",
+      "published_date": "2026-10-27T05:20:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Eskom hits 525 days without load shedding as power recovery reaches six-year high",
       "source": "The Citizen",
@@ -34,6 +47,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "MaMkhize loses bid to block sale of R35m Sandown compound as court backs Sars",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/mamkhize-loses-bid-to-block-sale-of-r35m-sandown-compound-as-court-backs-sars/",
+      "published_date": "2026-10-27T13:40:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Africa must repair strained US relationship, Roelf Meyer says",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/south-africa-must-repair-strained-us-relationship-roelf-meyer/",
+      "published_date": "2026-10-27T03:38:35+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Chery gives first glimpse of rugged South Africa-bound Tiggo X7",
       "source": "The Citizen",
@@ -68,37 +95,93 @@
       "url": "https://www.citizen.co.za/business/reintroducing-fuel-levy-relief-will-come-at-a-cost-for-treasury/",
       "published_date": "2026-10-21T08:58:06+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Warning: Rand Water calls on customers to reduce consumption as crisis looms",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/warning-rand-water-calls-on-customers-to-reduce-consumption-as-crisis-looms/",
-      "published_date": "2026-10-20T16:04:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "MTBPS: Treasury under pressure to stabilise government debt",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/mtbps-treasury-under-pressure-to-stabilise-government-debt/",
-      "published_date": "2026-10-20T10:51:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Export-market Freelander 8 ditches REEV for plug-in hybrid",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/freelander-8-revealed-as-a-plug-in-hybrid/",
-      "published_date": "2026-10-20T08:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "South Africa needs to invest in free press",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/south-africa-needs-to-invest-in-free-press/",
-      "published_date": "2026-10-20T03:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Tackling South Africa’s job crisis: What the major political parties are promising",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/tackling-south-africas-job-crisis/",
+      "published_date": "2026-10-27T11:28:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joburg traffic alert: Samwu march to trigger road closures and CBD delays",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/joburg-traffic-alert-samwu-march-trigger-road-closures-cbd-delays/",
+      "published_date": "2026-10-27T10:45:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Lawrence Maleka to Advocate Thuli Madonsela: Meet the Miss SA 2026 judges and hosts [Pics]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/from-lawrence-maleka-to-advocate-thuli-madonsela-meet-the-miss-sa-2026-judges-and-hosts-pics/",
+      "published_date": "2026-10-27T10:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa deploys 510 soldiers to KZN amid anti-immigrant violence",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-deploys-soldiers-kzn-amid-violence-linked-refugee-act-misinformation/",
+      "published_date": "2026-10-27T09:34:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC Veterans League: Don’t vote ANC because of its struggle legacy",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-veterans-league-dont-vote-anc-because-of-its-struggle-legacy/",
+      "published_date": "2026-10-27T08:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspended Pretoria chief magistrate Desmond Nair pleads not guilty in Bosasa-linked trial",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/suspended-pretoria-chief-magistrate-desmond-nair-pleads-not-guilty-bosasa-linked-trial/",
+      "published_date": "2026-10-27T07:55:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC fights to protect IEC funds from R40 million debt claim",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-fights-to-protect-iec-funds-from-r40-million-debt-claim/",
+      "published_date": "2026-10-27T06:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Johannesburg tap water safe? Utility responds to circulating claims",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/is-johannesburg-tap-water-safe-utility-responds-to-circulating-claims/",
+      "published_date": "2026-10-27T05:46:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘New’ Toyota Fortuner global reveal date supposedly set",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/new-toyota-fortuner-global-launch-date-set/",
+      "published_date": "2026-10-27T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Temba Bavuma ‘locked in’ as he aims to lead Proteas from the front again",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/temba-bavuma-proteas-australia-third-test/",
+      "published_date": "2026-10-27T04:04:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Deadbeat’ ANC must pay R40m debt before getting IEC funds",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/deadbeat-anc-must-pay-r40m-debt-before-getting-iec-funds/",
+      "published_date": "2026-10-27T04:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diamond city shines brightest with lessons for Joburg",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/diamond-city-shines-brightest-with-lessons-for-joburg/",
+      "published_date": "2026-10-27T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "24 hours in pictures: Thomas van Tonder’s Bloukrans Bridge stunt, M1 blocked by workers and more",
       "source": "The Citizen",
@@ -153,90 +236,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/father-killed-in-scuffle-for-water-as-family-vows-to-vote-for-the-anc-of-mandela/",
       "published_date": "2026-10-26T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC issues urgent warning over fake ‘free R300’ election scam",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-issues-urgent-warning-fake-free-r300-election-scam/",
-      "published_date": "2026-10-26T06:49:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbalula blasts DA for calling Western Cape residents ‘refugees’, warns ANC collapse would harm SA [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-blasts-da-calling-western-cape-residents-refugees-warns-anc-collapse-would-harm-sa/",
-      "published_date": "2026-10-26T05:14:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "End of the 3.0? Isuzu details new 2.2-litre bi-turbodiesel engine",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/isuzu-debuts-new-2-2-litre-bi-turbodiesel-engine/",
-      "published_date": "2026-10-26T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Be more like Bavuma, says Rickelton ahead of series decider in Cape Town",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/be-more-like-bavuma-says-rickelton-series-decider-cape-town/",
-      "published_date": "2026-10-26T04:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition claims ANC is using council jobs to ‘buy votes’ in Ekurhuleni",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-buy-votes-ekurhuleni-council-actionsa/",
-      "published_date": "2026-10-26T03:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Damning’ report reveals Tshwane mayor knew about water crisis, claims DA’s Brink",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/report-tshwane-mayor-moya-water-crisis/",
-      "published_date": "2026-10-26T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "48 hours in pictures: Cape Town Kite Festival, Daredevil Run and Russian attack on Ukraine",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/48-hours-in-pictures-cape-town-kite-festival-daredevil-run-and-russian-attack-on-ukraine/",
-      "published_date": "2026-10-25T22:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: Hangwani Maumela assets | Mapaila takes aim | Cape Town mass shooting",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-25-october-2026/",
-      "published_date": "2026-10-25T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wraps come off ‘new’ generation Chery Tiggo 7",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/chery-previews-new-tiggo-7/",
-      "published_date": "2026-10-25T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five dead and three injured in mass shooting near Cape Town",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/dead-injured-mass-shooting-incident-cape-town/",
-      "published_date": "2026-10-25T06:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New book: How Checkers became a technology giant disguised as a supermarket [WATCH]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/how-checkers-became-a-tech-giant-new-book/",
-      "published_date": "2026-10-25T06:07:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Tshwane confirms Pretoria CBD tap water is safe as Bronkhorstspruit probe continues",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/city-of-tshwane-pretoria-cbd-tap-water-bronkhorstspruit/",
-      "published_date": "2026-10-24T18:18:49+00:00",
       "category": "Local Events"
     }
   ]
