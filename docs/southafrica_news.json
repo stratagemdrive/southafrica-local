@@ -7,13 +7,6 @@
       "url": "https://www.citizen.co.za/news/south-africa/just-in-ramaphosa-receives-iran-navy-probe-report-after-ignored-presidential-order/",
       "published_date": "2026-10-27T06:41:07+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Mzansi lives in fear: Cape Town Kite Festival to highlight mental health",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/kite-festival-highlights-mental-health/",
-      "published_date": "2026-10-21T04:00:34+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -40,6 +33,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Activists take South African bank to advertising regulator over East Africa oil project links",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/activists-south-african-bank-advertising-regulator-east-africa/",
+      "published_date": "2026-10-28T12:20:29+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MaMkhize loses bid to block sale of R35m Sandown compound as court backs Sars",
       "source": "The Citizen",
@@ -74,23 +74,86 @@
       "url": "https://www.citizen.co.za/news/r186m-gbv-budget-risks-becoming-lip-service-warns-action-society/",
       "published_date": "2026-10-22T06:16:49+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Government spending to increase to R3 trillion – Here’s where the money is going",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/government-spending-to-increase-to-r3-trillion-heres-where-the-money-is-going/",
-      "published_date": "2026-10-21T14:18:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Reintroducing fuel levy relief ‘will come at a cost’ for Treasury",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/reintroducing-fuel-levy-relief-will-come-at-a-cost-for-treasury/",
-      "published_date": "2026-10-21T08:58:06+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "South Africa v Australia third Test: Day two highlights",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-two-highlights/",
+      "published_date": "2026-10-28T16:11:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dullstroom rally to be a true test of man and machine",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/dullstroom-rally-to-be-a-true-test/",
+      "published_date": "2026-10-28T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Chiefs stun Pirates and keep Da Cruz cruising?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/can-chiefs-stun-pirates-keep-da-cruz-cruising/",
+      "published_date": "2026-10-28T12:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maimane: State capture never ended; it just moved to municipalities [PODCAST]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/maimane-state-capture-never-ended-it-just-moved-to-municipalities-podcast/",
+      "published_date": "2026-10-28T10:19:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘If we don’t adapt, we’ll die’: Maropene Ramokgopa says ANC should start behaving like a political party",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/maropene-ramokgopa-says-anc-should-start-behaving-like-political-party/",
+      "published_date": "2026-10-28T10:10:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hawks probe Tuynhuis security breach after man arrested inside restricted area",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/hawks-probe-tuynhuis-security-breach-after-man-arrested-inside-restricted-area/",
+      "published_date": "2026-10-28T10:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chiefs’ Da Cruz thanks Motaung Jnr for show of faith",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-thanks-motaung-jnr-show-fait/",
+      "published_date": "2026-10-28T09:02:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK party faces battle for outright majority in eThekwini",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mk-party-faces-battle-for-outright-majority-in-ethekwini/",
+      "published_date": "2026-10-28T05:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than an interior refresh Nissan Navara launch date confirmed",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/facelift-nissan-navara-launch-date-confirmed/",
+      "published_date": "2026-10-28T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a six minute TikTok love story became a South African novel",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/how-a-six-minute-tiktok-love-story-became-a-south-african-novel/",
+      "published_date": "2026-10-28T04:15:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa heads to KZN for ANC’s final push ahead of elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-heads-kzn-ancs-final-election-push-local-polls-loom/",
+      "published_date": "2026-10-28T02:56:48+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Chiefs’ Da Cruz believes hat-trick hero Duba has bright future",
       "source": "The Citizen",
@@ -152,83 +215,6 @@
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T08:06:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspended Pretoria chief magistrate Desmond Nair pleads not guilty in Bosasa-linked trial",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/courts/suspended-pretoria-chief-magistrate-desmond-nair-pleads-not-guilty-bosasa-linked-trial/",
-      "published_date": "2026-10-27T07:55:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC fights to protect IEC funds from R40 million debt claim",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-fights-to-protect-iec-funds-from-r40-million-debt-claim/",
-      "published_date": "2026-10-27T06:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Johannesburg tap water safe? Utility responds to circulating claims",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/is-johannesburg-tap-water-safe-utility-responds-to-circulating-claims/",
-      "published_date": "2026-10-27T05:46:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘New’ Toyota Fortuner global reveal date supposedly set",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/new-toyota-fortuner-global-launch-date-set/",
-      "published_date": "2026-10-27T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temba Bavuma ‘locked in’ as he aims to lead Proteas from the front again",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/temba-bavuma-proteas-australia-third-test/",
-      "published_date": "2026-10-27T04:04:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Deadbeat’ ANC must pay R40m debt before getting IEC funds",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/deadbeat-anc-must-pay-r40m-debt-before-getting-iec-funds/",
-      "published_date": "2026-10-27T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diamond city shines brightest with lessons for Joburg",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/diamond-city-shines-brightest-with-lessons-for-joburg/",
-      "published_date": "2026-10-27T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Thomas van Tonder’s Bloukrans Bridge stunt, M1 blocked by workers and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-thomas-van-tonders-bloukrans-bridge-stunt-m1-blocked-by-workers-and-more/",
-      "published_date": "2026-10-26T20:37:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: EFF denies UJ protest links | Distraught family loyal to ANC | Eugene de Kock at Khampepe commission",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-26-october-2026/",
-      "published_date": "2026-10-26T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: Eikenhof mother turns recyclable waste into a lifeline for her family",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/eikenhof-mother-turns-recyclable-waste-into-a-lifeline-for-her-family/",
-      "published_date": "2026-10-26T11:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It is official: Mitsubishi Triton-based Honda bakkie coming in 2028",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/honda-based-mitsubishi-triton-bakkie-confirmed/",
-      "published_date": "2026-10-26T11:00:00+00:00",
       "category": "Local Events"
     }
   ]
