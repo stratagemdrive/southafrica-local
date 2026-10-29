@@ -11,6 +11,13 @@
   ],
   "Energy": [
     {
+      "title": "Gauteng govt denies claim Lesufi took credit for Soweto transformer",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/did-lesufi-take-credit-for-da-funded-transformer-in-soweto/",
+      "published_date": "2026-10-29T15:41:43+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Newly launched Arcfox keen on entering bakkie segment",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/baic-owned-arcfox-keen-on-a-bakkie/",
@@ -33,6 +40,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Securing borders and managing migration: What SA’s biggest parties are promising",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/securing-borders-and-managing-migration/",
+      "published_date": "2026-10-29T11:40:11+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Activists take South African bank to advertising regulator over East Africa oil project links",
       "source": "The Citizen",
@@ -67,16 +81,128 @@
       "url": "https://www.citizen.co.za/news/anc-heightened-responsibility-mantashe/",
       "published_date": "2026-10-23T04:50:43+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "R186m GBV budget risks becoming ‘lip service’, warns Action Society",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/r186m-gbv-budget-risks-becoming-lip-service-warns-action-society/",
-      "published_date": "2026-10-22T06:16:49+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "South Africa v Australia third Test: Day three highlights",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-three-highlights/",
+      "published_date": "2026-10-29T16:56:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Award-winning Life After Fire display, Johannesburg water protest and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-award-winning-life-after-fire-display-johannesburg-water-protest-and-more/",
+      "published_date": "2026-10-29T16:33:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chiefs coach Da Cruz feeling confident ahead of first Soweto derby",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-coach-da-cruz-feeling-confident-ahead-of-first-soweto-derby/",
+      "published_date": "2026-10-29T16:31:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UDM hopes to end ‘one-party dominance’ in Mthatha by leading a coalition",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/udm-hopes-to-end-one-party-dominance-in-mthatha-by-leading-a-coalition/",
+      "published_date": "2026-10-29T16:19:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pirates’ Ouaddou accepts favourites tag ahead of Soweto derby",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/pirates-ouaddou-accepts-favourites-tag-ahead-of-soweto-derby/",
+      "published_date": "2026-10-29T14:31:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durban unveiled as host city for South Africa’s Olympic bids",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/durban-unveiled-host-city-south-africa-olympic-games-bids/",
+      "published_date": "2026-10-29T11:50:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "URC team news: Bulls, Lions, Sharks and Stormers name lineups",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/urc-team-news-bulls-lions-sharks-and-stormers-name-lineups/",
+      "published_date": "2026-10-29T11:45:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sun’s out to play in Gauteng this weekend",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/suns-out-to-play-in-gauteng-this-weekend/",
+      "published_date": "2026-10-29T10:50:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa not worried about ANC election collapse predictions",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-not-worried-about-anc-election-collapse-predictions/",
+      "published_date": "2026-10-29T09:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC must listen to critics like Mbeki and Motlanthe",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/anc-must-listen-to-critics-like-mbeki-and-motlanthe/",
+      "published_date": "2026-10-29T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Don’t bid for the Olympics’: Experts warn hosting could cost SA R500bn",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/experts-warn-hosting-olympics-could-cost-sa-r500bn/",
+      "published_date": "2026-10-29T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC denies owing Eltel R36m over 2019 election campaign",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/anc-denies-owing-eltel-r36m-over-2019-election-campaign/",
+      "published_date": "2026-10-29T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Spain train collision, Russian drone strike in Ukraine and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-spain-train-collision-russian-drone-strike-in-ukraine-and-more/",
+      "published_date": "2026-10-29T04:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Let it be a vote for progress, for recovery’: Ramaphosa calls for unity and end of looting",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-condemns-looting-business-attacks-amid-anti-illegal-immigration-protests/",
+      "published_date": "2026-10-29T04:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet the top 12 Miss South Africa 2026 finalists [Pics]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/meet-the-top-12-miss-south-africa-2026-finalists-pics/",
+      "published_date": "2026-10-29T04:12:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red light for robot thieves as lights vandalised",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/red-light-for-robot-thieves-as-lights-vandalised/",
+      "published_date": "2026-10-29T03:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police recover R9.6m in stolen vehicles and illicit goods in Limpopo",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/police-recover-stolen-vehicles-illicit-goods-limpopo/",
+      "published_date": "2026-10-29T02:08:19+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: Carrim granted bail | Father’s pension fund blocked over maintenance case | ANC must ‘adapt or die’",
       "source": "The Citizen",
@@ -96,125 +222,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-two-highlights/",
       "published_date": "2026-10-28T16:11:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dullstroom rally to be a true test of man and machine",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/dullstroom-rally-to-be-a-true-test/",
-      "published_date": "2026-10-28T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Chiefs stun Pirates and keep Da Cruz cruising?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/can-chiefs-stun-pirates-keep-da-cruz-cruising/",
-      "published_date": "2026-10-28T12:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maimane: State capture never ended; it just moved to municipalities [PODCAST]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/maimane-state-capture-never-ended-it-just-moved-to-municipalities-podcast/",
-      "published_date": "2026-10-28T10:19:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘If we don’t adapt, we’ll die’: Maropene Ramokgopa says ANC should start behaving like a political party",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/maropene-ramokgopa-says-anc-should-start-behaving-like-political-party/",
-      "published_date": "2026-10-28T10:10:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hawks probe Tuynhuis security breach after man arrested inside restricted area",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/hawks-probe-tuynhuis-security-breach-after-man-arrested-inside-restricted-area/",
-      "published_date": "2026-10-28T10:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiefs’ Da Cruz thanks Motaung Jnr for show of faith",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-thanks-motaung-jnr-show-fait/",
-      "published_date": "2026-10-28T09:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MK party faces battle for outright majority in eThekwini",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mk-party-faces-battle-for-outright-majority-in-ethekwini/",
-      "published_date": "2026-10-28T05:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than an interior refresh Nissan Navara launch date confirmed",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/facelift-nissan-navara-launch-date-confirmed/",
-      "published_date": "2026-10-28T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a six minute TikTok love story became a South African novel",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/how-a-six-minute-tiktok-love-story-became-a-south-african-novel/",
-      "published_date": "2026-10-28T04:15:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa heads to KZN for ANC’s final push ahead of elections",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-heads-kzn-ancs-final-election-push-local-polls-loom/",
-      "published_date": "2026-10-28T02:56:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiefs’ Da Cruz believes hat-trick hero Duba has bright future",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-believes-hat-trick-hero-duba-has-bright-future/",
-      "published_date": "2026-10-27T20:49:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: SAMWU marches in Johannesburg, Haiti searches through rubble and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-samwu-marches-in-johannesburg-haiti-searches-through-rubble-and-more/",
-      "published_date": "2026-10-27T20:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa v Australia third Test: Day one highlights",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-one-highlights/",
-      "published_date": "2026-10-27T16:06:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tackling South Africa’s job crisis: What the major political parties are promising",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/tackling-south-africas-job-crisis/",
-      "published_date": "2026-10-27T11:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joburg traffic alert: Samwu march to trigger road closures and CBD delays",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/joburg-traffic-alert-samwu-march-trigger-road-closures-cbd-delays/",
-      "published_date": "2026-10-27T10:45:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Lawrence Maleka to Advocate Thuli Madonsela: Meet the Miss SA 2026 judges and hosts [Pics]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/from-lawrence-maleka-to-advocate-thuli-madonsela-meet-the-miss-sa-2026-judges-and-hosts-pics/",
-      "published_date": "2026-10-27T10:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa deploys 510 soldiers to KZN amid anti-immigrant violence",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/ramaphosa-deploys-soldiers-kzn-amid-violence-linked-refugee-act-misinformation/",
-      "published_date": "2026-10-27T09:34:53+00:00",
       "category": "Local Events"
     }
   ]
