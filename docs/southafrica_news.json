@@ -41,6 +41,13 @@
   ],
   "Economy": [
     {
+      "title": "In case you missed it: Cachalia wants Mkhwanazi moved up | Sars raids Tshwane CFO Mnisi | Durban chosen for Olympic bid",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-29-october-2026/",
+      "published_date": "2026-10-29T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Securing borders and managing migration: What SA’s biggest parties are promising",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/securing-borders-and-managing-migration/",
@@ -85,10 +92,31 @@
   ],
   "Local Events": [
     {
+      "title": "Mafikizolo added to 2027 WAV Fest line-up with Ty Dollar Sign, here’s how you can get tickets",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/mafikizolo-2027-wav-fest-line-up-ty-dollar-sign-tickets/",
+      "published_date": "2026-10-29T18:24:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal legend Thierry Henry to attend Soweto derby",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/arsenal-legend-thierry-henry-to-attend-soweto-derby/",
+      "published_date": "2026-10-29T17:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "South Africa v Australia third Test: Day three highlights",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-three-highlights/",
       "published_date": "2026-10-29T16:56:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Careless dismissals give Australia route to series win",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T16:53:40+00:00",
       "category": "Local Events"
     },
     {
@@ -201,27 +229,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/crime/police-recover-stolen-vehicles-illicit-goods-limpopo/",
       "published_date": "2026-10-29T02:08:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: Carrim granted bail | Father’s pension fund blocked over maintenance case | ANC must ‘adapt or die’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-28-october-2026/",
-      "published_date": "2026-10-28T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sean Paul brings Scorpion Kings to Cape Town for December show",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/sean-paul-brings-scorpion-kings-to-cape-town-for-december-show/",
-      "published_date": "2026-10-28T17:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa v Australia third Test: Day two highlights",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/south-africa-australia-third-test-day-two-highlights/",
-      "published_date": "2026-10-28T16:11:57+00:00",
       "category": "Local Events"
     }
   ]
