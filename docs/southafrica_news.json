@@ -1,11 +1,19 @@
 {
-  "Diplomacy": [],
+  "Diplomacy": [
+    {
+      "title": "South Africa’s Agoa exit was ‘predictable and preventable’, US Ambassador Bozell says",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/south-africas-agoa-exit-predictable-preventable-us-ambassador-bozell/",
+      "published_date": "2026-11-03T01:27:15+00:00",
+      "category": "Diplomacy"
+    }
+  ],
   "Military": [
     {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T19:33:10+00:00",
+      "published_date": "2026-11-03T03:00:36+00:00",
       "category": "Military"
     },
     {
@@ -102,16 +110,23 @@
       "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/mamkhize-loses-bid-to-block-sale-of-r35m-sandown-compound-as-court-backs-sars/",
       "published_date": "2026-10-27T13:40:42+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "South Africa must repair strained US relationship, Roelf Meyer says",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/south-africa-must-repair-strained-us-relationship-roelf-meyer/",
-      "published_date": "2026-10-27T03:38:35+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Joburg residents face a city consuming its own future",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/joburg-residents-face-a-city-consuming-its-own-future/",
+      "published_date": "2026-11-03T03:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa signals Hawks top job for Mkhwanazi as Cabinet decision looms",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-signals-hawks-top-job-mkhwanazi-cabinet-decision-looms/",
+      "published_date": "2026-11-03T00:57:53+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "source": "BBC News Africa",
@@ -236,20 +251,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/ancyl-challenges-buffalo-city-leadership-over-mbalula-endorsement-and-mayoral-race/",
       "published_date": "2026-11-02T04:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the road to nowhere",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/on-the-road-to-nowhere/",
-      "published_date": "2026-11-02T04:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bavuma’s golden era continues",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/bavumas-golden-era-continues/",
-      "published_date": "2026-11-02T04:25:00+00:00",
       "category": "Local Events"
     }
   ]
