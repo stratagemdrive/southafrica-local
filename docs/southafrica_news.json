@@ -13,7 +13,7 @@
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T03:00:36+00:00",
+      "published_date": "2026-11-03T13:28:30+00:00",
       "category": "Military"
     },
     {
@@ -21,13 +21,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/opinion/zama-zama-gangs-may-need-more-than-army-boots-on-the-ground/",
       "published_date": "2026-10-30T05:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ramaphosa receives Iran Navy probe report after ignored presidential order",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/just-in-ramaphosa-receives-iran-navy-probe-report-after-ignored-presidential-order/",
-      "published_date": "2026-10-27T06:41:07+00:00",
       "category": "Military"
     }
   ],
@@ -52,23 +45,30 @@
       "url": "https://www.citizen.co.za/news/south-africa/did-lesufi-take-credit-for-da-funded-transformer-in-soweto/",
       "published_date": "2026-10-29T15:41:43+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Newly launched Arcfox keen on entering bakkie segment",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/baic-owned-arcfox-keen-on-a-bakkie/",
-      "published_date": "2026-10-27T11:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Finances, corruption, repairs: Helen Zille on her plans to turn Joburg around",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/helen-zille-on-her-plans-to-turn-joburg-around/",
-      "published_date": "2026-10-27T05:20:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Agoa exclusion: What is South Africa really losing?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/agoa-exclusion-what-is-south-africa-really-losing/",
+      "published_date": "2026-11-03T13:25:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘South Africa must trade with the world, not be bullied by it’ – EFF on Agoa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/south-africa-must-trade-with-the-world-not-be-bullied-by-it-eff-on-agoa/",
+      "published_date": "2026-11-03T12:32:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "These municipalities could face ’emergency’ Rand Water shutdown on eve of elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/municipalities-emergency-rand-water-shutdown-elections/",
+      "published_date": "2026-11-03T09:36:19+00:00",
+      "category": "Economy"
+    },
     {
       "title": "US to exclude South Africa and Rwanda from Agoa duty-free deal",
       "source": "The Citizen",
@@ -103,16 +103,72 @@
       "url": "https://www.citizen.co.za/business/activists-south-african-bank-advertising-regulator-east-africa/",
       "published_date": "2026-10-28T12:20:29+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "MaMkhize loses bid to block sale of R35m Sandown compound as court backs Sars",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/mamkhize-loses-bid-to-block-sale-of-r35m-sandown-compound-as-court-backs-sars/",
-      "published_date": "2026-10-27T13:40:42+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sporty new Toyota Hilux GR-S confirmed for South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/sporty-new-toyota-hilux-gr-s/",
+      "published_date": "2026-11-03T15:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA candidate’s daughter injured as home set alight with petrol in Kariega",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/da-candidates-daughter-injured-as-home-set-alight-with-petrol-in-kariega/",
+      "published_date": "2026-11-03T14:55:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC members lose Electoral Court battle to overturn Eastern Cape candidate lists",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-electoral-court-eastern-cape-candidate-lists/",
+      "published_date": "2026-11-03T13:33:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voter arrested after posting photo of marked ballot paper online; police hunt second suspect",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/voter-arrested-posting-photo-marked-ballot-paper-online-police-hunt-second-suspect/",
+      "published_date": "2026-11-03T12:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morero on who calls the coalition shots and being ‘Johannesburg’s last ANC mayor’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/morero-on-who-calls-the-coalition-shots-and-being-johannesburgs-last-anc-mayor/",
+      "published_date": "2026-11-03T12:29:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four charged with attempted murder after South African farmer shot and tortured",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T12:12:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the gambling website you’re using legal? Here’s how to check",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/is-the-gambling-website-youre-using-legal-heres-how-to-check/",
+      "published_date": "2026-11-03T08:59:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Your vote matters: South Africa cannot afford electoral apathy",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/your-vote-matters-south-africa-cannot-afford-electoral-apathy/",
+      "published_date": "2026-11-03T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump moves to end South Africa’s Agoa benefits, Pretoria pushes back",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/trump-moves-end-south-africas-agoa-benefits-pretoria-pushes-back/",
+      "published_date": "2026-11-03T04:22:26+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Joburg residents face a city consuming its own future",
       "source": "The Citizen",
@@ -188,69 +244,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/updated-again-gwm-tank-500-revealed/",
       "published_date": "2026-11-02T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T10:48:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lions batter Zubayr Hamza recalled to Proteas Test squad for Bangladesh series",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/cricket/zubayr-hamza-recalled-proteas-test-squad-bangladesh/",
-      "published_date": "2026-11-02T10:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watson, Grace join stellar field for Nedbank Golf Challenge",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/watson-grace-join-stellar-field-for-nedbank-golf-challenge/",
-      "published_date": "2026-11-02T10:37:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NFP: Why ANC will lose KZN municipalities in local elections",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/nfp-why-anc-will-lose-kzn-municipalities-in-local-elections/",
-      "published_date": "2026-11-02T09:39:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marx deal with Bulls ‘90% complete’, Willemse being hunted by Japanese club – reports",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/marx-deal-bulls-90-complete-willemse-hunted-japanese-club/",
-      "published_date": "2026-11-02T08:35:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa admits corruption and patronage have eroded trust in municipalities ahead of elections",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-admits-corruption-patronage-eroded-trust-municipalities-ahead-elections/",
-      "published_date": "2026-11-02T08:32:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Pietersen and his Sharks deserve all the credit they’re getting",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/opinion-jp-pietersen-sharks-deserve-credit-getting-urc/",
-      "published_date": "2026-11-02T06:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ouaddou hails Kaizer Chiefs as Da Cruz slams referees",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/ouaddou-hails-kaizer-chiefs-as-da-cruz-slams-referees/",
-      "published_date": "2026-11-02T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANCYL challenges Buffalo City leadership over Mbalula endorsement and mayoral race",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ancyl-challenges-buffalo-city-leadership-over-mbalula-endorsement-and-mayoral-race/",
-      "published_date": "2026-11-02T04:45:00+00:00",
       "category": "Local Events"
     }
   ]
