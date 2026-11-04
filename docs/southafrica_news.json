@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "WATCH: Agoa exclusion is a negative: Ramaphosa signals new US trade deal push",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/agoa-exclusion-is-a-negative-ramaphosa-signals-new-us-trade-deal-push/",
+      "published_date": "2026-11-04T10:02:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "South Africa’s Agoa exit was ‘predictable and preventable’, US Ambassador Bozell says",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/south-africas-agoa-exit-predictable-preventable-us-ambassador-bozell/",
@@ -96,28 +103,126 @@
       "url": "https://www.citizen.co.za/news/south-africa/elections/securing-borders-and-managing-migration/",
       "published_date": "2026-10-29T11:40:11+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Activists take South African bank to advertising regulator over East Africa oil project links",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/activists-south-african-bank-advertising-regulator-east-africa/",
-      "published_date": "2026-10-28T12:20:29+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "South Africa votes today as IEC declares readiness for polls",
+      "title": "Zandile Gumede: ANC in KZN is drinking its own medicine, claims MK Party is a ‘messiah’",
       "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/iec-declares-election-readiness-after-1-4m-south-africans-cast-special-vote/",
-      "published_date": "2026-11-04T01:48:06+00:00",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/zandile-gumede-anc-in-kzn-is-drinking-its-own-medicine-claims-mk-party-is-a-messiah/",
+      "published_date": "2026-11-04T16:28:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 election day fashion… It’s not the Durban July [PICS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/election-fashion-was-a-chilled-vibe/",
+      "published_date": "2026-11-04T16:09:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Johannesburg municipality signs Samwu addendum on eve of local elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/johannesburg-municipality-signs-samwu-addendum/",
+      "published_date": "2026-11-04T15:38:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PICTURES: Best images from South Africa’s 2026 local government elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/pictures-best-images-from-south-africas-2026-local-government-elections/",
+      "published_date": "2026-11-04T15:25:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbalula: ANC to announce mayoral candidates after election results as coalition talks remain on hold",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-anc-mayoral-candidates-election-results/",
+      "published_date": "2026-11-04T14:24:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dramatic Dullstroom rally dishes up everything and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/dramatic-dullstroom-rally-dishes-up-everything/",
+      "published_date": "2026-11-04T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makhadzi allowed to leave Botswana and return to South Africa after court agreement",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/makhadzi-allowed-to-leave-botswana-return-to-south-africa/",
+      "published_date": "2026-11-04T12:48:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC ward candidate can contest elections despite alleged Saps employment, Electoral Court rules",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/anc-ward-candidate-saps-electoral-court/",
+      "published_date": "2026-11-04T12:07:49+00:00",
       "category": "Local Events"
     },
     {
       "title": "ANC under pressure to reverse South Africa decline",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T00:03:19+00:00",
+      "published_date": "2026-11-04T11:47:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC fires back at Zille’s ‘Madlanga moment’ call, says Joburg corruption crackdown already underway [VIDEOS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-fires-back-zilles-madlanga-moment-call-says-joburg-corruption-crackdown-already-underway/",
+      "published_date": "2026-11-04T10:35:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SA votes: Here’s what to expect when the results start rolling in",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/sa-votes-heres-what-to-expect-when-the-results-start-rolling-in/",
+      "published_date": "2026-11-04T10:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa admits service delivery crisis is driving the vote [VIDEOS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-admits-service-delivery-crisis-driving-vote/",
+      "published_date": "2026-11-04T09:40:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Everything is destroyed’: Zille blasts ANC as water crisis dominates Joburg election [VIDEOS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/everything-is-destroyed-zille-blasts-anc-water-crisis-dominates-joburg-election/",
+      "published_date": "2026-11-04T08:40:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dry court, no bail hearing: Soweto teacher stays in cell for allegedly raping 9-year-old pupil",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/dry-court-no-bail-hearing-soweto-teacher-stays-in-cell-for-allegedly-raping-9-year-old-pupil/",
+      "published_date": "2026-11-04T05:57:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "URC break: SA derbies will separate the pretenders from the contenders",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/local-sa-urc-derbies-separate-pretenders/",
+      "published_date": "2026-11-04T04:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LOCAL GOVERNMENT ELECTIONS LIVE: Ramaphosa promises residents ‘the best’ and Zille talks about coalitions",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/local-government-elections-live-wake-up-its-time-to-vote/",
+      "published_date": "2026-11-04T04:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa votes today as IEC declares readiness for polls",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/iec-declares-election-readiness-after-1-4m-south-africans-cast-special-vote/",
+      "published_date": "2026-11-04T01:48:06+00:00",
       "category": "Local Events"
     },
     {
@@ -139,111 +244,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/crime/da-candidates-daughter-injured-as-home-set-alight-with-petrol-in-kariega/",
       "published_date": "2026-11-03T14:55:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC members lose Electoral Court battle to overturn Eastern Cape candidate lists",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-electoral-court-eastern-cape-candidate-lists/",
-      "published_date": "2026-11-03T13:33:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voter arrested after posting photo of marked ballot paper online; police hunt second suspect",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/voter-arrested-posting-photo-marked-ballot-paper-online-police-hunt-second-suspect/",
-      "published_date": "2026-11-03T12:38:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morero on who calls the coalition shots and being ‘Johannesburg’s last ANC mayor’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/morero-on-who-calls-the-coalition-shots-and-being-johannesburgs-last-anc-mayor/",
-      "published_date": "2026-11-03T12:29:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four charged with attempted murder after South African farmer shot and tortured",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T12:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the gambling website you’re using legal? Here’s how to check",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/is-the-gambling-website-youre-using-legal-heres-how-to-check/",
-      "published_date": "2026-11-03T08:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Your vote matters: South Africa cannot afford electoral apathy",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/your-vote-matters-south-africa-cannot-afford-electoral-apathy/",
-      "published_date": "2026-11-03T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump moves to end South Africa’s Agoa benefits, Pretoria pushes back",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/trump-moves-end-south-africas-agoa-benefits-pretoria-pushes-back/",
-      "published_date": "2026-11-03T04:22:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joburg residents face a city consuming its own future",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/joburg-residents-face-a-city-consuming-its-own-future/",
-      "published_date": "2026-11-03T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa signals Hawks top job for Mkhwanazi as Cabinet decision looms",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/ramaphosa-signals-hawks-top-job-mkhwanazi-cabinet-decision-looms/",
-      "published_date": "2026-11-03T00:57:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T20:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Movie dog shows off camera skills, Johannesburg water protests and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-movie-dog-shows-off-camera-skills-johannesburg-water-protests-and-more/",
-      "published_date": "2026-11-02T19:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘How to Ruin Diwali’ cast brings festive chaos to Durban Diwali Festival [PICS]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/how-to-ruin-diwali-cast-brings-festive-chaos-to-durban-diwali-festival-pics/",
-      "published_date": "2026-11-02T14:29:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharply styled all-electric MG4 plugging into South Africa in 2027",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/mg4-coming-to-south-africa-in-2027/",
-      "published_date": "2026-11-02T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cape Town’s missing ballots: ConCourt ruling sees 33 million ballots re-printed",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/cape-town-missing-ballots-concourt-ruling-sees-33-million-ballots-re-printed/",
-      "published_date": "2026-11-02T12:39:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiefs’ Da Cruz still believes in title chances",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-still-believes-title-chances/",
-      "published_date": "2026-11-02T11:30:00+00:00",
       "category": "Local Events"
     }
   ]
