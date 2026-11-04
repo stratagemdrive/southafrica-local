@@ -107,6 +107,27 @@
   ],
   "Local Events": [
     {
+      "title": "South Africa votes today as IEC declares readiness for polls",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/iec-declares-election-readiness-after-1-4m-south-africans-cast-special-vote/",
+      "published_date": "2026-11-04T01:48:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T00:03:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Dada Morero casts special vote, King Charles at Commonwealth forum and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-dada-morero-casts-special-vote-king-charles-at-commonwealth-forum-and-more/",
+      "published_date": "2026-11-03T19:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sporty new Toyota Hilux GR-S confirmed for South Africa",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/sporty-new-toyota-hilux-gr-s/",
@@ -223,27 +244,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-still-believes-title-chances/",
       "published_date": "2026-11-02T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa and Khoza urge South Africans to vote, say democracy depends on it [VIDEO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-khoza-urge-south-africans-to-vote-say-democracy-depends-on-it/",
-      "published_date": "2026-11-02T11:10:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voting chaos hits Cape Town as missing ballots disrupt 217 stations",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/voting-chaos-hits-cape-town-as-missing-ballots-disrupt-217-stations/",
-      "published_date": "2026-11-02T11:02:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GWM overhauls Tank 500, again, in China with more tech",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/updated-again-gwm-tank-500-revealed/",
-      "published_date": "2026-11-02T11:00:00+00:00",
       "category": "Local Events"
     }
   ]
