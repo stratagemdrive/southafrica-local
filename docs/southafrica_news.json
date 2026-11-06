@@ -82,16 +82,23 @@
       "url": "https://www.citizen.co.za/news/news-world/us-to-exclude-south-africa-and-rwanda-from-agoa-duty-free-deal/",
       "published_date": "2026-11-02T19:51:09+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Lesufi and ‘Ford Cortina’ Zille trade blows in the battle for Joburg",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/lesufi-calls-zille-ford-cortina-trade-blows-battle-joburg/",
-      "published_date": "2026-10-30T02:56:30+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Cape Town online dating scam syndicate busted as two suspects arrested",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/cape-town-online-dating-scam-syndicate-busted-two-suspects-arrested/",
+      "published_date": "2026-11-06T02:53:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC under pressure as opposition parties make gains in elections",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-under-pressure-opposition-parties-make-gains-elections/",
+      "published_date": "2026-11-06T02:24:52+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "24 hours in pictures: France protests, MK election celebrations and Greek student demonstrations",
       "source": "The Citizen",
@@ -216,20 +223,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/different-political-choices-one-shared-dream-ethekwini-residents-want-a-better-sa/",
       "published_date": "2026-11-04T20:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zandile Gumede: ANC in KZN is drinking its own medicine, claims MK Party is a ‘messiah’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/zandile-gumede-anc-in-kzn-is-drinking-its-own-medicine-claims-mk-party-is-a-messiah/",
-      "published_date": "2026-11-04T16:28:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 election day fashion… It’s not the Durban July [PICS]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/election-fashion-was-a-chilled-vibe/",
-      "published_date": "2026-11-04T16:09:39+00:00",
       "category": "Local Events"
     }
   ]
