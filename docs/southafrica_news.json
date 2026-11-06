@@ -22,16 +22,30 @@
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-03T13:28:30+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Zama zama gangs may need more than army boots on the ground",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/zama-zama-gangs-may-need-more-than-army-boots-on-the-ground/",
-      "published_date": "2026-10-30T05:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "What to do this weekend: Kayla Itsines brings fitness bootcamp energy to Midrand",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/health/what-to-do-this-weekend-kayla-itsines-brings-fitness-bootcamp-energy-to-midrand/",
+      "published_date": "2026-11-06T09:45:40+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Eskom faces R4bn curtailment bill as solar power surges",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/eskom-faces-r4bn-curtailment-bill-as-solar-power-surges/",
+      "published_date": "2026-11-06T09:29:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "S3 and T5 possibly outed as next Arcfox models for South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/possible-new-arcfox-models-for-south-africa/",
+      "published_date": "2026-11-06T08:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Johannesburg suffering service delivery crisis in week of election",
       "source": "The Citizen",
@@ -48,6 +62,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Where does South Africa’s investment money really go?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/personal-finance/where-does-south-africas-investment-money-really-go/",
+      "published_date": "2026-11-06T12:45:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Foton provides futuristic load-lugging preview with eView Connect",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/electric-foton-eview-connect-van-teased/",
+      "published_date": "2026-11-06T11:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Agoa deal turns to lemon as SA exclusion sparks job fears",
       "source": "The Citizen",
@@ -86,6 +114,111 @@
   ],
   "Local Events": [
     {
+      "title": "Bail denied for man accused of killing TUT student in Soweto",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/bail-denied-for-man-accused-of-killing-tut-student-in-soweto/",
+      "published_date": "2026-11-06T15:46:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘What a beautiful place to begin my journey’: Hollywood star Forest Whitaker enjoys Mzansi [PICS]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/what-a-beautiful-place-to-begin-my-journey-hollywood-star-forest-whitaker-enjoys-mzansi-pics/",
+      "published_date": "2026-11-06T14:25:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chiefs’ Da Cruz hints at January signings",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-hints-january-signings/",
+      "published_date": "2026-11-06T14:08:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collen Malatji | South Africans did not vote for the ANC to take an ‘L’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/south-africans-did-not-vote-for-the-anc-to-take-an-l-collen-malatji/",
+      "published_date": "2026-11-06T10:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DBN Gogo, DJ Lag and more to headline 6th YX26 Experience at Constitution Hill",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/dbn-gogo-dj-lag-and-more-to-headline-6th-yx26-experience-at-constitution-hill/",
+      "published_date": "2026-11-06T10:10:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pieter-Steph du Toit is on his way back to South Africa: Where will he end up?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/du-toit-back-sa-where-will-end-up/",
+      "published_date": "2026-11-06T10:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coalitions: Who the ANC should work with – ANCYL",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/malatji-says-anc-must-go-into-coalition-talks-with-like-minded-parties/",
+      "published_date": "2026-11-06T08:53:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA eyes mayoral chains as coalition talks begin",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/da-eyes-mayoral-chains-as-coalition-talks-begin/",
+      "published_date": "2026-11-06T08:15:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nick Hatton: Libbok signing huge for the Sharks",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/nick-hatton-manie-libbok-sharks-springboks-return-japan/",
+      "published_date": "2026-11-06T08:08:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ActionSA claims ANC voters abandoning party as it sweeps township votes",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/actionsa-claims-anc-voters-abandoning-party-as-it-sweeps-township-votes/",
+      "published_date": "2026-11-06T06:18:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All eyes on Joburg battle as ANC-ActionSA alliance potentially emerges",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/all-eyes-on-joburg-battle-as-anc-actionsa-alliance-potentially-emerges/",
+      "published_date": "2026-11-06T05:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politicians have one job: save Johannesburg",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/politicians-have-one-job-save-johannesburg/",
+      "published_date": "2026-11-06T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Small parties, big ballots: Debate over electoral reform",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/small-parties-big-ballots-debate-over-electoral-reform/",
+      "published_date": "2026-11-06T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mokonyane concedes poor service delivery driving down ANC voter turnout",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mokonyane-concedes-poor-service-delivery-driving-down-anc-voter-turnout/",
+      "published_date": "2026-11-06T04:10:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can SA afford Agoa’s loss as US ends eligibility?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/can-sa-afford-agoas-loss-as-us-ends-eligibility/",
+      "published_date": "2026-11-06T03:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Cape Town online dating scam syndicate busted as two suspects arrested",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/crime/cape-town-online-dating-scam-syndicate-busted-two-suspects-arrested/",
@@ -118,111 +251,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/elections/anc-deputy-sg-work-with-everyone-election-coalitions/",
       "published_date": "2026-11-05T15:20:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "13 reasons why your body needs more water this summer",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/health/13-reasons-whyyour-body-needs-more-water-this-summer/",
-      "published_date": "2026-11-05T14:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC doesn’t regret giving citizens freedom to vote, says Mantashe amid counting",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-citizens-freedom-vote-mantashe/",
-      "published_date": "2026-11-05T14:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA leader says MK party is not a real threat in KZN",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-mk-party-is-not-a-real-threat-in-kzn/",
-      "published_date": "2026-11-05T13:31:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s when you can expect your refuse to be collected by Pikitup",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/heres-when-refuse-collected-pikitup/",
-      "published_date": "2026-11-05T13:28:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ellerman House: Luxury, fine dining and art in Cape Town’s Bantry Bay",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/travel/ellerman-house-luxury-fine-dining-and-art-in-cape-towns-bantry-bay/",
-      "published_date": "2026-11-05T12:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA and Geordin Hill-Lewis declare victory in Cape Town with less than a quarter of votes counted",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-geordin-hill-lewis-declare-victory-cape-town-less-than-quarter-votes-counted/",
-      "published_date": "2026-11-05T10:39:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Cape Town’s non-payment threatens survival of construction company",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/city-of-cape-towns-non-payment-threatens-survival-of-construction-company/",
-      "published_date": "2026-11-05T09:52:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA claims more than 1 million black South Africans voted for it, but analyst says ‘not so fast’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-says-1-million-black-south-africans-voted-for-it-but-analyst-says-not-so-fast/",
-      "published_date": "2026-11-05T09:17:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MG preparing Prado and Everest rival for South Africa in 2027",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/mg-announces-new-suv-for-south-africa/",
-      "published_date": "2026-11-05T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA claims historic black voter breakthrough as support tops one million",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-claims-historic-black-voter-breakthrough-as-support-tops-one-million/",
-      "published_date": "2026-11-05T07:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agoa exclusion no surprise as ballot brings change",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/agoa-exclusion-no-surprise-as-ballot-brings-change/",
-      "published_date": "2026-11-05T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foton gives first glimpse of all-electric Tunland G7 bakkie",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/foton-previews-all-electric-etunland-bakkie/",
-      "published_date": "2026-11-05T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s wonderful to be leading from the start’: DA celebrates as first election results trickle in",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/election-results-trickle-as-race-municipal-power-intensifies/",
-      "published_date": "2026-11-05T04:13:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LOCAL GOVERNMENT ELECTIONS LIVE: Early results not looking promising for ANC",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/local-government-elections-live-day-1-results-and-turnout/",
-      "published_date": "2026-11-05T03:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Different political choices, one shared dream: eThekwini residents want a better SA (WATCH)",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/different-political-choices-one-shared-dream-ethekwini-residents-want-a-better-sa/",
-      "published_date": "2026-11-04T20:20:21+00:00",
       "category": "Local Events"
     }
   ]
