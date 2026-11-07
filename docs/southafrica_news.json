@@ -114,6 +114,55 @@
   ],
   "Local Events": [
     {
+      "title": "Weather alert: Here’s what to expect across South Africa on Sunday",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/weather/south-africa-weather-alert-8-november-2026/",
+      "published_date": "2026-11-07T16:27:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbalula: We thought we would be totally wiped out in KZN",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-we-knew-this-disaster-was-coming-we-thought-we-would-be-totally-wiped-out-in-kzn/",
+      "published_date": "2026-11-07T12:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malema on coalitions: If MK party asks ANC to ditch Ramaphosa, he must go",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/malema-on-coalitions-if-mk-party-asks-anc-to-ditch-ramaphosa-he-must-go/",
+      "published_date": "2026-11-07T11:35:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa crush Italy in Nations Championship tour opener – LIVE",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/live-updates-italy-v-south-africa/",
+      "published_date": "2026-11-07T10:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coalitions: ANC ‘not desperate’ and doesn’t ‘need rescuing’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/coalitions-anc-not-desperate-and-doesnt-need-saving/",
+      "published_date": "2026-11-07T09:10:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joburg’s coalition puzzle: Three scenarios that could shape its future [AUDIO]",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/joburgs-coalition-puzzle-three-scenarios-that-could-shape-its-future-audio/",
+      "published_date": "2026-11-07T07:35:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zille’s ‘gusheshe’ campaign has paid off for the DA, says expert",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/zilles-gusheshe-campaign-has-paid-for-the-da-says-expert/",
+      "published_date": "2026-11-07T04:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘He’s going to Boland,’ jokes Kolisi about Du Toit as he hails return of Bok stars to SA",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/sport/rugby/boland-kolisi-du-toit-return-bok-stars-sa/",
@@ -202,55 +251,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/opinion/politicians-have-one-job-save-johannesburg/",
       "published_date": "2026-11-06T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Small parties, big ballots: Debate over electoral reform",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/small-parties-big-ballots-debate-over-electoral-reform/",
-      "published_date": "2026-11-06T04:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mokonyane concedes poor service delivery driving down ANC voter turnout",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mokonyane-concedes-poor-service-delivery-driving-down-anc-voter-turnout/",
-      "published_date": "2026-11-06T04:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can SA afford Agoa’s loss as US ends eligibility?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/can-sa-afford-agoas-loss-as-us-ends-eligibility/",
-      "published_date": "2026-11-06T03:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cape Town online dating scam syndicate busted as two suspects arrested",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/cape-town-online-dating-scam-syndicate-busted-two-suspects-arrested/",
-      "published_date": "2026-11-06T02:53:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC under pressure as opposition parties make gains in elections",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-under-pressure-opposition-parties-make-gains-elections/",
-      "published_date": "2026-11-06T02:24:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: France protests, MK election celebrations and Greek student demonstrations",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-france-protests-mk-election-celebrations-and-greek-student-demonstrations/",
-      "published_date": "2026-11-05T18:22:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He’s not a robot’, Ouaddou on protecting Pirates’ ‘diamond’ Appollis",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/hes-not-a-robot-ouaddou-on-protecting-pirates-diamond-appollis/",
-      "published_date": "2026-11-05T15:23:42+00:00",
       "category": "Local Events"
     }
   ]
