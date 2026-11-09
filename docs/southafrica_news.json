@@ -45,23 +45,16 @@
       "url": "https://www.citizen.co.za/motoring/possible-new-arcfox-models-for-south-africa/",
       "published_date": "2026-11-06T08:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Johannesburg suffering service delivery crisis in week of election",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/johannesburg-suffering-service-delivery-crisis-in-week-of-election/",
-      "published_date": "2026-11-02T14:41:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "KZN remains the only province experiencing load reduction: Here are the affected areas",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/kzn-remains-the-only-province-experiencing-load-reduction-here-are-the-affected-areas/",
-      "published_date": "2026-11-02T10:32:43+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Aero Performance Package-enhanced Toyota GR Yaris priced",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/toyota-gr-yaris-south-africa-price/",
+      "published_date": "2026-11-09T11:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Where does South Africa’s investment money really go?",
       "source": "The Citizen",
@@ -103,16 +96,114 @@
       "url": "https://www.citizen.co.za/news/municipalities-emergency-rand-water-shutdown-elections/",
       "published_date": "2026-11-03T09:36:19+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "US to exclude South Africa and Rwanda from Agoa duty-free deal",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/news-world/us-to-exclude-south-africa-and-rwanda-from-agoa-duty-free-deal/",
-      "published_date": "2026-11-02T19:51:09+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "In case you missed it: Ramaphosa on resignation | ‘Hilton Predator’ arrested | ActionSA starts coalition talks with ANC and EFF",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-9-november-2026/",
+      "published_date": "2026-11-09T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T17:06:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Diwali celebrations, Matlala at Madlanga Commission and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-diwali-celebrations-matlala-at-madlanga-commission-and-more/",
+      "published_date": "2026-11-09T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Love Is Blind: South Africa’ release date reportedly set for 4 December on Netflix",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/love-is-blind-south-africa-release-date-reportedly-set-for-4-december-on-netflix/",
+      "published_date": "2026-11-09T12:41:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ActionSA opens coalition talks with ANC and EFF",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/actionsa-opens-coalition-talks-with-anc-and-eff/",
+      "published_date": "2026-11-09T12:24:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kaytranada returns to SA for Cape Town and Joburg shows to open Milk + Cookies Music Week",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/kaytranada-returns-south-africa-milk-cookies-music-week/",
+      "published_date": "2026-11-09T11:27:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "N12 reopened after Soweto residents shut down highway after election results",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/election-dust-barely-settles-protest-shuts-down-n12-in-soweto/",
+      "published_date": "2026-11-09T08:31:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chiefs’ Da Cruz relishing Sundowns test in CKO semis",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/chiefs-da-cruz-relishing-sundowns-test-cko-semis/",
+      "published_date": "2026-11-09T08:04:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI must create jobs, not deepen South Africa’s unemployment crisis – deputy labour minister",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ai-must-create-jobs-not-deepen-south-africas-unemployment-crisis-deputy-labour-minister/",
+      "published_date": "2026-11-09T06:58:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa rejects resignation rumours after ANC election blow",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/its-preposterous-ramaphosa-rejects-resignation-rumours-anc-election-blow/",
+      "published_date": "2026-11-09T04:41:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Braziliant lesson on why to vote",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/braziliant-lesson-on-why-to-vote/",
+      "published_date": "2026-11-09T04:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 local government election: Hung councils trigger scramble for coalition partners",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/hung-councils-coalition-partners-municipalities/",
+      "published_date": "2026-11-09T03:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA may invoke GNU coalition terms in City of Joburg",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/da-gnu-coalition-city-of-joburg/",
+      "published_date": "2026-11-09T03:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "If ActionSA, ANC join up to keep DA out it will anger voters – analyst",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/actionsa-anc-da-gauteng-metros-elections/",
+      "published_date": "2026-11-09T03:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Too hot to fly full? – Summer heat could force airlines to reduce aircraft loads",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/summer-heat-airlines-reduce-aircraft-loads/",
+      "published_date": "2026-11-09T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "El Niño strikes Gauteng: Johannesburg on high alert as severe storms, hail and flooding threat looms",
       "source": "The Citizen",
@@ -142,115 +233,10 @@
       "category": "Local Events"
     },
     {
-      "title": "South Africa's ANC records worst-ever results in local elections",
+      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-08T17:51:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here are the final 2026 local government election results for SA’s eight metros",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/final-2026-local-government-election-results-eight-metros/",
-      "published_date": "2026-11-08T17:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: ‘Elvis’ weds Durban couple in Las Vegas",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/watch-elvis-weds-durban-couple-in-las-vegas/",
-      "published_date": "2026-11-08T08:50:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zille blocked? Moya replaced? – What leadership changes we may see in Joburg, Tshwane, and Ekurhuleni",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/zille-moya-joburg-tshwane-ekurhuleni-coalitions/",
-      "published_date": "2026-11-08T08:28:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boot Ramaphosa, mayorships, and ‘no racists’: What parties are saying ahead of coalition talks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/political-parties-saying-ahead-of-coalition-talks/",
-      "published_date": "2026-11-08T06:02:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC’s poor elections not just Mbalula’s fault",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/anc-poor-elections-not-just-mbalula-fault/",
-      "published_date": "2026-11-08T05:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: South Africa is not ready to host the Olympic Games",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/opinion-south-africa-is-not-ready-to-host-the-olympic-games/",
-      "published_date": "2026-11-08T04:58:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramaphosa ‘offers to resign’ after ANC electoral disaster",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/ramaphosa-offers-to-resign-after-anc-electoral-disaster/",
-      "published_date": "2026-11-08T04:49:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather alert: Here’s what to expect across South Africa on Sunday",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/weather/south-africa-weather-alert-8-november-2026/",
-      "published_date": "2026-11-07T16:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbalula: We thought we would be totally wiped out in KZN",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mbalula-we-knew-this-disaster-was-coming-we-thought-we-would-be-totally-wiped-out-in-kzn/",
-      "published_date": "2026-11-07T12:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malema on coalitions: If MK party asks ANC to ditch Ramaphosa, he must go",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/malema-on-coalitions-if-mk-party-asks-anc-to-ditch-ramaphosa-he-must-go/",
-      "published_date": "2026-11-07T11:35:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa crush Italy in Nations Championship tour opener – LIVE",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/live-updates-italy-v-south-africa/",
-      "published_date": "2026-11-07T10:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coalitions: ANC ‘not desperate’ and doesn’t ‘need rescuing’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/coalitions-anc-not-desperate-and-doesnt-need-saving/",
-      "published_date": "2026-11-07T09:10:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joburg’s coalition puzzle: Three scenarios that could shape its future [AUDIO]",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/joburgs-coalition-puzzle-three-scenarios-that-could-shape-its-future-audio/",
-      "published_date": "2026-11-07T07:35:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zille’s ‘gusheshe’ campaign has paid off for the DA, says expert",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/zilles-gusheshe-campaign-has-paid-for-the-da-says-expert/",
-      "published_date": "2026-11-07T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He’s going to Boland,’ jokes Kolisi about Du Toit as he hails return of Bok stars to SA",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/rugby/boland-kolisi-du-toit-return-bok-stars-sa/",
-      "published_date": "2026-11-06T19:52:14+00:00",
       "category": "Local Events"
     }
   ]
