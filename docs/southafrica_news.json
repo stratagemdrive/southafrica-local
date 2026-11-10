@@ -6,13 +6,6 @@
       "url": "https://www.citizen.co.za/news/south-africa/elections/agoa-exclusion-is-a-negative-ramaphosa-signals-new-us-trade-deal-push/",
       "published_date": "2026-11-04T10:02:51+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "South Africa’s Agoa exit was ‘predictable and preventable’, US Ambassador Bozell says",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/south-africas-agoa-exit-predictable-preventable-us-ambassador-bozell/",
-      "published_date": "2026-11-03T01:27:15+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -99,6 +92,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Pretoria hit by multiple power outages after severe storm",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/pretoria-hit-by-multiple-power-outages-after-severe-storm/",
+      "published_date": "2026-11-10T03:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ActionSA’s balancing act in Gauteng coalition talks",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/actionsas-balancing-act-in-gauteng-coalition-talks/",
+      "published_date": "2026-11-10T03:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC punished at polls as Boipatong residents turn to DA",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-punished-at-polls-as-boipatong-residents-turn-to-da/",
+      "published_date": "2026-11-10T03:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A small victory for democracy despite voter apathy",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/a-small-victory-for-democracy-despite-voter-apathy/",
+      "published_date": "2026-11-10T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: Ramaphosa on resignation | ‘Hilton Predator’ arrested | ActionSA starts coalition talks with ANC and EFF",
       "source": "The Citizen",
@@ -209,34 +230,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/south-africa/weather/el-nino-strikes-gauteng-johannesburg-high-alert-severe-storms-hail-flooding-threat-looms/",
       "published_date": "2026-11-09T01:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Egypt train collision, Soweto Fashion Week and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-egypt-train-collision-soweto-fashion-week-and-more/",
-      "published_date": "2026-11-08T18:35:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: Ramaphosa to resign? | IEC election results | Bronkhorstspruit water crisis",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-8-november-2026/",
-      "published_date": "2026-11-08T18:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC tops 2026 local government election results as Ramaphosa warns parties ahead of coalition talks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/anc-2026-local-government-election-ramaphosa-coalition/",
-      "published_date": "2026-11-08T17:51:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T17:51:03+00:00",
       "category": "Local Events"
     }
   ]
