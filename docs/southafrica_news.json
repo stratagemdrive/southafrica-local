@@ -1,13 +1,5 @@
 {
-  "Diplomacy": [
-    {
-      "title": "WATCH: Agoa exclusion is a negative: Ramaphosa signals new US trade deal push",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/agoa-exclusion-is-a-negative-ramaphosa-signals-new-us-trade-deal-push/",
-      "published_date": "2026-11-04T10:02:51+00:00",
-      "category": "Diplomacy"
-    }
-  ],
+  "Diplomacy": [],
   "Military": [],
   "Energy": [
     {
@@ -78,6 +70,125 @@
   ],
   "Local Events": [
     {
+      "title": "24 hours in pictures: India train derailment, Festive Chicken workers picket and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-india-train-derailment-festive-chicken-workers-picket-and-more/",
+      "published_date": "2026-11-11T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Campbell hails ‘special’ Bafana star Mofokeng",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/campbell-hails-special-bafana-star-mofokeng/",
+      "published_date": "2026-11-11T16:10:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Changing the tune: ActionSA voters turn on Mashaba over ANC coalition talks",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/actionsa-voters-turn-on-mashaba/",
+      "published_date": "2026-11-11T15:18:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are political donors unfairly swaying SA’s democracy after DA’s R225m revealed?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/are-political-donors-unfairly-swaying-sas-democracy-after-das-r225m-revealed/",
+      "published_date": "2026-11-11T14:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From quinoa to Shein: South Africa’s most mispronounced words",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/from-quinoa-to-shein-south-africas-most-mispronounced-words/",
+      "published_date": "2026-11-11T13:31:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘More than greed’: Matlala says Cele kept asking him for money, unaware Idac sought former minister’s arrest",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/bheki-cele-wanted-money-from-cat-matlala-idac-sought-his-arrest/",
+      "published_date": "2026-11-11T12:58:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We’ve been dealing with the Zuma drama’: ANCYL leader says Zuma’s daughter is free to leave the ANC",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/weve-been-dealing-with-the-zuma-drama-ancyl-leader-says-zumas-daughter-is-free-to-leave-the-anc/",
+      "published_date": "2026-11-11T11:47:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woolworths says high fuel prices, interest rates in SA and Australia are hurting the businesses",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/business/woolworths-says-high-fuel-prices-interest-rates-in-sa-and-australia-are-hurting-the-businesses/",
+      "published_date": "2026-11-11T11:19:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ellis names Banyana squad for World Cup playoffs",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/ellis-names-banyana-squad-for-world-cup-playoffs/",
+      "published_date": "2026-11-11T10:18:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mashaba says ActionSA replaced ANC as the hope of ‘black’ South Africans, as coalition talks continue",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mashaba-says-actionsa-has-replaced-anc-as-the-hope-of-black-south-africans/",
+      "published_date": "2026-11-11T10:13:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tearful South African Olympian Tatjana Smith switches allegiance to the Netherlands",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T09:45:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shimza announces Kunye Johannesburg for March 2027 amid boardroom battle",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/shimza-announces-kunye-march-2027-amid-boardroom-battle/",
+      "published_date": "2026-11-11T09:39:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24 hours in pictures: Russian airstrike damages ambulance, fugitive in court and more",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-russian-airstrike-damages-ambulance-fugitive-in-court-and-more/",
+      "published_date": "2026-11-11T08:12:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC’s declining support: Ramaphosa must carry the can",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/ancs-declining-support-ramaphosa-must-carry-the-can/",
+      "published_date": "2026-11-11T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC running out of chances as 2029 wipeout predicted",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/anc-running-out-of-chances-as-experts-predict-2029-wipeout/",
+      "published_date": "2026-11-11T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Panyaza Lesufi be the next ANC president? Premier clears the air on 2027 leadership race",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/politics/panyaza-lesufi-rejects-anc-presidency-calls-ahead-2027-leadership-race/",
+      "published_date": "2026-11-11T04:57:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police fire stun grenades, rubber bullets as Durban protest turns violent",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/police-fire-stun-grenades-rubber-bullets-durban-protest-turns-violent/",
+      "published_date": "2026-11-11T02:40:51+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "In case you missed it: Mbeki weighs on Ramaphosa | Unemployment crisis deepens | Smith switches to Netherlands",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/in-case-you-missed-it-10-november-2026/",
@@ -96,125 +207,6 @@
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/lifestyle/rugby-romance-sharks-star-meno-barnard-marries-anais-terblanche-in-cape-town-wedding/",
       "published_date": "2026-11-10T14:41:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miss SA changes its prize package – Here’s what 2026 winner, princesses and other finalists will receive",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/fashion-and-beauty/miss-sa-changes-its-prize-package-heres-what-2026-winner-princesses-and-other-finalists-will-receive/",
-      "published_date": "2026-11-10T14:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s how much Johannesburg and Cape Town fine political parties for election poster ‘littering’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/johannesburg-cape-town-fine-political-parties-election-littering/",
-      "published_date": "2026-11-10T13:33:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Legend brings The Muse Tour to South Africa in 2027",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/john-legend-brings-the-muse-tour-to-south-africa-in-2027/",
-      "published_date": "2026-11-10T13:28:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kalahari Arts & Heritage Festival returns for sixth edition: Here’s all you need to know",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/kalahari-arts-heritage-festival-returns-for-sixth-edition-heres-all-you-need-to-know/",
-      "published_date": "2026-11-10T13:19:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Youth League president blames Mbeki and Yengeni for starting ANC decline",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/brand-anc-started-eroding-from-then-ancyl-president-slams-thabo-mbeki-and-tony-yengeni/",
-      "published_date": "2026-11-10T12:56:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s when Home Affairs’ asylum seekers’ digital platform will open to assist entry into South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/home-affairs-gives-asylum-seekers-digital-platform-to-assist-entry-into-south-africa/",
-      "published_date": "2026-11-10T09:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbeki: ‘If reports are true, Ramaphosa is correct to offer his resignation’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/mbeki-if-reports-are-true-ramaphosa-is-correct-to-offer-his-resignation/",
-      "published_date": "2026-11-10T07:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA and ActionSA gains expose growing voter disillusionment with ANC",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/da-actionsa-gains-growing-voter-disillusionment-anc/",
-      "published_date": "2026-11-10T05:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pushback against DA is looming after election gains",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/pushback-against-da-is-looming-after-election-gains/",
-      "published_date": "2026-11-10T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pretoria hit by multiple power outages after severe storm",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/pretoria-hit-by-multiple-power-outages-after-severe-storm/",
-      "published_date": "2026-11-10T03:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ActionSA’s balancing act in Gauteng coalition talks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/actionsas-balancing-act-in-gauteng-coalition-talks/",
-      "published_date": "2026-11-10T03:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC punished at polls as Boipatong residents turn to DA",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/anc-punished-at-polls-as-boipatong-residents-turn-to-da/",
-      "published_date": "2026-11-10T03:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A small victory for democracy despite voter apathy",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/a-small-victory-for-democracy-despite-voter-apathy/",
-      "published_date": "2026-11-10T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: Ramaphosa on resignation | ‘Hilton Predator’ arrested | ActionSA starts coalition talks with ANC and EFF",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-9-november-2026/",
-      "published_date": "2026-11-09T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-09T17:06:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Diwali celebrations, Matlala at Madlanga Commission and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-diwali-celebrations-matlala-at-madlanga-commission-and-more/",
-      "published_date": "2026-11-09T16:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Love Is Blind: South Africa’ release date reportedly set for 4 December on Netflix",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/tv/love-is-blind-south-africa-release-date-reportedly-set-for-4-december-on-netflix/",
-      "published_date": "2026-11-09T12:41:30+00:00",
       "category": "Local Events"
     }
   ]
