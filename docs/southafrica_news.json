@@ -3,6 +3,13 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Zeekr slowly gearing up for South Africa based on new online discovery",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/zeekr-preparing-for-south-african-arrival/",
+      "published_date": "2026-11-12T08:00:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "What to do this weekend: Kayla Itsines brings fitness bootcamp energy to Midrand",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/lifestyle/health/what-to-do-this-weekend-kayla-itsines-brings-fitness-bootcamp-energy-to-midrand/",
@@ -59,16 +66,72 @@
       "url": "https://www.citizen.co.za/motoring/electric-foton-eview-connect-van-teased/",
       "published_date": "2026-11-06T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Agoa deal turns to lemon as SA exclusion sparks job fears",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/agoa-deal-turns-to-lemon-as-sa-exclusion-sparks-job-fears/",
-      "published_date": "2026-11-05T04:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "In case you missed it: ANC insists best for SA | Foreigner intercepted en route to Russian/Ukraine war | Phuti Khomo’s sister speaks out",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-12-november-2026/",
+      "published_date": "2026-11-12T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC maintains it is the best choice for SA as NEC discusses coalitions",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/we-still-the-best-choice-for-sa-says-anc-as-coalition-nec-meets/",
+      "published_date": "2026-11-12T12:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Round 2: ‘Please resign’ – Bonang tells minister Gayton McKenzie to step down",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/round-2-please-resign-bonang-tells-minister-gayton-mckenzie-to-step-down/",
+      "published_date": "2026-11-12T11:39:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia-Ukraine war: Another foreign national arrested in SA, bringing total to 10",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/crime/russia-ukraine-war-another-foreign-national-arrested-in-sa-bringing-total-to-10/",
+      "published_date": "2026-11-12T11:03:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Range-extending iCaur V27 launch date penned in for South Africa",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/icaur-v27-launch-date-south-africa-confirmed/",
+      "published_date": "2026-11-12T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "120 voters in one house: ANC heads to electoral court",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/120-voters-in-one-house-anc-heads-to-electoral-court/",
+      "published_date": "2026-11-12T08:33:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANC deaf to SA voices after historic election loss",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/anc-deaf-to-sa-voices-after-historic-election-loss/",
+      "published_date": "2026-11-12T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isuzu makes it clear: South Africa will get 2.2-litre diesel but ‘we won’t rush it’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/isuzus-2-2-wont-rushed-for-south-africa/",
+      "published_date": "2026-11-12T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA begins coalition talks with ANC and new party in Mpumalanga",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/da-begins-coalition-talks-with-anc-new-party-mpumalanga/",
+      "published_date": "2026-11-12T04:20:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "24 hours in pictures: India train derailment, Festive Chicken workers picket and more",
       "source": "The Citizen",
@@ -140,73 +203,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Tearful South African Olympian Tatjana Smith switches allegiance to the Netherlands",
+      "title": "Tearful Smith switches allegiance to Netherlands",
       "source": "BBC News Africa",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-11T09:45:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shimza announces Kunye Johannesburg for March 2027 amid boardroom battle",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/shimza-announces-kunye-march-2027-amid-boardroom-battle/",
-      "published_date": "2026-11-11T09:39:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: Russian airstrike damages ambulance, fugitive in court and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-russian-airstrike-damages-ambulance-fugitive-in-court-and-more/",
-      "published_date": "2026-11-11T08:12:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC’s declining support: Ramaphosa must carry the can",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/ancs-declining-support-ramaphosa-must-carry-the-can/",
-      "published_date": "2026-11-11T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC running out of chances as 2029 wipeout predicted",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/anc-running-out-of-chances-as-experts-predict-2029-wipeout/",
-      "published_date": "2026-11-11T05:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Panyaza Lesufi be the next ANC president? Premier clears the air on 2027 leadership race",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/politics/panyaza-lesufi-rejects-anc-presidency-calls-ahead-2027-leadership-race/",
-      "published_date": "2026-11-11T04:57:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police fire stun grenades, rubber bullets as Durban protest turns violent",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/police-fire-stun-grenades-rubber-bullets-durban-protest-turns-violent/",
-      "published_date": "2026-11-11T02:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In case you missed it: Mbeki weighs on Ramaphosa | Unemployment crisis deepens | Smith switches to Netherlands",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-10-november-2026/",
-      "published_date": "2026-11-10T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saftu rejects Ramaphosa’s 3.5% salary hike for ministers, MPs, premiers and MECs",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/saftu-rejects-ramaphosas-3-5-salary-hike-for-ministers-mps-premiers-and-mecs/",
-      "published_date": "2026-11-10T15:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rugby romance! Sharks star Meno Barnard marries Anais Terblanche in Cape Town wedding",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/rugby-romance-sharks-star-meno-barnard-marries-anais-terblanche-in-cape-town-wedding/",
-      "published_date": "2026-11-10T14:41:37+00:00",
       "category": "Local Events"
     }
   ]
