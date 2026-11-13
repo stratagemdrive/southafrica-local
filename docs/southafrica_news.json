@@ -3,35 +3,28 @@
   "Military": [],
   "Energy": [
     {
+      "title": "Eskom targets faster grid connections to unlock SA’s energy generation potential",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/eskom-targets-faster-grid-connections-unlock-sas-energy-generation-potential/",
+      "published_date": "2026-11-13T03:26:20+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Zeekr slowly gearing up for South Africa based on new online discovery",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/motoring/zeekr-preparing-for-south-african-arrival/",
       "published_date": "2026-11-12T08:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "What to do this weekend: Kayla Itsines brings fitness bootcamp energy to Midrand",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/health/what-to-do-this-weekend-kayla-itsines-brings-fitness-bootcamp-energy-to-midrand/",
-      "published_date": "2026-11-06T09:45:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eskom faces R4bn curtailment bill as solar power surges",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/eskom-faces-r4bn-curtailment-bill-as-solar-power-surges/",
-      "published_date": "2026-11-06T09:29:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "S3 and T5 possibly outed as next Arcfox models for South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/possible-new-arcfox-models-for-south-africa/",
-      "published_date": "2026-11-06T08:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "South African-made Volkswagen Tengo production officially starts",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/volkswagen-tengo-south-africa-production-starts/",
+      "published_date": "2026-11-13T11:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Water boards tell parliament they are owed nearly R10 billion",
       "source": "The Citizen",
@@ -52,161 +45,147 @@
       "url": "https://www.citizen.co.za/motoring/toyota-gr-yaris-south-africa-price/",
       "published_date": "2026-11-09T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Where does South Africa’s investment money really go?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/personal-finance/where-does-south-africas-investment-money-really-go/",
-      "published_date": "2026-11-06T12:45:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Foton provides futuristic load-lugging preview with eView Connect",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/electric-foton-eview-connect-van-teased/",
-      "published_date": "2026-11-06T11:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "LIVE UPDATES: France v South Africa in Paris",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/live-france-v-south-africa-paris-nations-championship/",
+      "published_date": "2026-11-13T18:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In case you missed it: Will DA deliver Zille’s head to Mashaba? | Brown Mogotsi’s partial win | Anele an Buzza’s love story",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/in-case-you-missed-it-13-november-2026/",
+      "published_date": "2026-11-13T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isuzu ‘open’ for made-in-South Africa MU-X but only if numbers agree",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/isuzu-open-for-south-africa-mux-production/",
+      "published_date": "2026-11-13T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Springboks favourites in Paris, but France capable of beating anyone, says Dupont",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/rugby/springboks-favourites-france-capable-beating-anyone-dupont/",
+      "published_date": "2026-11-13T13:36:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joburg coalition talks begin: Will the DA deliver Zille’s head to Mashaba?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/will-the-da-hand-over-zilles-head-to-mashaba/",
+      "published_date": "2026-11-13T11:24:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No relief from the heat as Johannesburg shuts public swimming pools",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/no-relief-from-the-heat-as-johannesburg-shuts-public-swimming-pools-from-this-date/",
+      "published_date": "2026-11-13T09:47:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agent comments on Manqoba Mngqithi links to Kaizer Chiefs",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/agent-comments-on-manqoba-mngqithi-links-to-kaizer-chiefs/",
+      "published_date": "2026-11-13T08:55:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK party urges ANC to ‘do the right thing’ to avoid death as PA talks collapse",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/mk-party-urges-anc-to-do-the-right-thing-to-avoid-death-as-pa-talks-collapse/",
+      "published_date": "2026-11-13T08:36:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "source": "BBC News Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-13T07:01:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ActionSA: ‘DA Lite’ to March and March in council?",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/actionsa-da-lite-to-march-and-march-in-council/",
+      "published_date": "2026-11-13T07:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keep your jolly ol’ England",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/keep-your-jolly-ol-england/",
+      "published_date": "2026-11-13T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia’s Cummins says Khawaja ‘100 percent wrong’ on ‘Sandpapergate’",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/australias-cummins-says-khawaja-100-percent-wrong-on-sandpapergate/",
+      "published_date": "2026-11-13T05:22:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joburg’s City Parks confirms avian botulism likely cause of Zoo Lake bird deaths",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/jcpz-confirms-avian-botulism-cause-zoo-lake-waterbird-deaths/",
+      "published_date": "2026-11-13T05:08:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toyota Corolla Cross-based half-ton bakkie reveal time ‘set’, but….",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/motoring/toyota-corolla-cross-bakkie-coming-in-2027/",
+      "published_date": "2026-11-13T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramaphosa heads to Silicon Valley to position SA in global AI race",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/ramaphosa-heads-silicon-valley-position-sa-global-ai-race/",
+      "published_date": "2026-11-13T04:52:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanral asks court to extend road maintenance contracts",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/sanral-asks-court-to-extend-road-maintenance-contracts/",
+      "published_date": "2026-11-13T04:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proteas not underestimating Bangladesh ahead of Test series, says coach Conrad",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/sport/cricket/proteas-not-underestimating-bangladesh-ahead-of-test-series-says-coach-conrad/",
+      "published_date": "2026-11-13T04:16:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poor showing in Rustenburg denies ANC cadres PR seats",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/south-africa/elections/poor-showing-in-rustenburg-denies-anc-cadres-pr-seats/",
+      "published_date": "2026-11-13T03:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The truth set ANC voters free",
+      "source": "The Citizen",
+      "url": "https://www.citizen.co.za/news/opinion/the-truth-set-anc-voters-free/",
+      "published_date": "2026-11-13T03:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "In case you missed it: ANC insists best for SA | Foreigner intercepted en route to Russian/Ukraine war | Phuti Khomo’s sister speaks out",
       "source": "The Citizen",
       "url": "https://www.citizen.co.za/news/in-case-you-missed-it-12-november-2026/",
       "published_date": "2026-11-12T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC maintains it is the best choice for SA as NEC discusses coalitions",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/we-still-the-best-choice-for-sa-says-anc-as-coalition-nec-meets/",
-      "published_date": "2026-11-12T12:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Round 2: ‘Please resign’ – Bonang tells minister Gayton McKenzie to step down",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/entertainment/celebrity-news/round-2-please-resign-bonang-tells-minister-gayton-mckenzie-to-step-down/",
-      "published_date": "2026-11-12T11:39:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia-Ukraine war: Another foreign national arrested in SA, bringing total to 10",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/crime/russia-ukraine-war-another-foreign-national-arrested-in-sa-bringing-total-to-10/",
-      "published_date": "2026-11-12T11:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Range-extending iCaur V27 launch date penned in for South Africa",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/icaur-v27-launch-date-south-africa-confirmed/",
-      "published_date": "2026-11-12T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "120 voters in one house: ANC heads to electoral court",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/120-voters-in-one-house-anc-heads-to-electoral-court/",
-      "published_date": "2026-11-12T08:33:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ANC deaf to SA voices after historic election loss",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/opinion/anc-deaf-to-sa-voices-after-historic-election-loss/",
-      "published_date": "2026-11-12T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isuzu makes it clear: South Africa will get 2.2-litre diesel but ‘we won’t rush it’",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/motoring/isuzus-2-2-wont-rushed-for-south-africa/",
-      "published_date": "2026-11-12T05:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA begins coalition talks with ANC and new party in Mpumalanga",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/da-begins-coalition-talks-with-anc-new-party-mpumalanga/",
-      "published_date": "2026-11-12T04:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "24 hours in pictures: India train derailment, Festive Chicken workers picket and more",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/multimedia/24-hours-in-pictures-india-train-derailment-festive-chicken-workers-picket-and-more/",
-      "published_date": "2026-11-11T16:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Campbell hails ‘special’ Bafana star Mofokeng",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/local-soccer/campbell-hails-special-bafana-star-mofokeng/",
-      "published_date": "2026-11-11T16:10:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Changing the tune: ActionSA voters turn on Mashaba over ANC coalition talks",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/actionsa-voters-turn-on-mashaba/",
-      "published_date": "2026-11-11T15:18:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Are political donors unfairly swaying SA’s democracy after DA’s R225m revealed?",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/are-political-donors-unfairly-swaying-sas-democracy-after-das-r225m-revealed/",
-      "published_date": "2026-11-11T14:15:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From quinoa to Shein: South Africa’s most mispronounced words",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/lifestyle/from-quinoa-to-shein-south-africas-most-mispronounced-words/",
-      "published_date": "2026-11-11T13:31:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘More than greed’: Matlala says Cele kept asking him for money, unaware Idac sought former minister’s arrest",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/bheki-cele-wanted-money-from-cat-matlala-idac-sought-his-arrest/",
-      "published_date": "2026-11-11T12:58:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’ve been dealing with the Zuma drama’: ANCYL leader says Zuma’s daughter is free to leave the ANC",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/weve-been-dealing-with-the-zuma-drama-ancyl-leader-says-zumas-daughter-is-free-to-leave-the-anc/",
-      "published_date": "2026-11-11T11:47:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woolworths says high fuel prices, interest rates in SA and Australia are hurting the businesses",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/business/woolworths-says-high-fuel-prices-interest-rates-in-sa-and-australia-are-hurting-the-businesses/",
-      "published_date": "2026-11-11T11:19:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ellis names Banyana squad for World Cup playoffs",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/sport/soccer/ellis-names-banyana-squad-for-world-cup-playoffs/",
-      "published_date": "2026-11-11T10:18:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mashaba says ActionSA replaced ANC as the hope of ‘black’ South Africans, as coalition talks continue",
-      "source": "The Citizen",
-      "url": "https://www.citizen.co.za/news/south-africa/elections/mashaba-says-actionsa-has-replaced-anc-as-the-hope-of-black-south-africans/",
-      "published_date": "2026-11-11T10:13:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tearful Smith switches allegiance to Netherlands",
-      "source": "BBC News Africa",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T09:45:14+00:00",
       "category": "Local Events"
     }
   ]
